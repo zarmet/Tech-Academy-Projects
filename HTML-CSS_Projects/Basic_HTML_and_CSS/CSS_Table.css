@@ -1,0 +1,4 @@
+table {border: 1 px solid black}
+td:hover {background-color:yellow; color:black;}
+tr, th{background-color: black; color:cornsilk}
+tr, td{background-color: indigo; color: white; text-align: center}

@@ -1,0 +1,211 @@
+
+/*=============
+FONT COLOR CSS
+==============*/
+
+html {
+    text-shadow: gold;
+    color: lightgreen;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+/*===================
+BACKGROUND FORMATTING
+====================*/
+
+body {
+    background-image:linear-gradient(to bottom right, rgb(138, 28, 119), rgb(8, 163, 8)) ;
+    text-align: center;
+    margin-bottom: auto;
+    margin-left: 0;
+    margin-top: 10px;
+}
+
+/*=========
+NAVBAR CSS
+=========*/
+/* The navigation bar */
+.navbar {
+    overflow: visible;
+    background-color: rgb(46, 48, 58);
+    position: fixed; /* Set the navbar to fixed position */
+    top: 0; /* Position the navbar at the top of the page */
+    width: 100%; /* Full width */
+    z-index: 50;
+  }
+  
+  /* Links inside the navbar */
+  .navbar a {
+    float: left;
+    display: block;
+    color: floralwhite;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  /* Change background on mouse-over */
+  .navbar a:hover {
+    background: rgb(17, 75, 6);
+    color: rgb(228, 236, 106);
+  }
+  
+  /* Main content */
+  .main {
+    margin-top: 30px; /* Add a top margin to avoid content overlay */
+  }
+
+
+
+/*==============
+FILTER FOR IMAGE
+===============*/
+img {
+    filter: hue-rotate(90deg);
+}
+
+.video {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 25px;
+    padding-top: 100px;
+    width: 50%;
+    border-radius: 10px;
+  }
+
+.container {
+    position: relative;
+    text-align: center;
+    color: lightgreen;
+    margin-bottom: 5px;
+  }
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+  .bottom-centered {
+    position: absolute;
+    bottom: 0px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    margin-top: 20px;
+    padding-top: 0%;
+  }
+
+
+/*===============
+OVERLAY FOR IMAGE
+================*/
+  
+  .overlay {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: #2a3f46;
+    opacity: .8;
+    overflow: hidden;
+    width: 970px;
+    height: 0;
+    transform: translate(28%);
+    transition: .5s ease;
+  }
+  
+  .container:hover .overlay {
+    height: 640px;
+  }
+  
+  .scan-report {
+      font-family: 'Courier New', Courier, monospace;
+      font-weight: 600;
+      color: lightgreen;
+  }
+
+
+
+
+/*==============
+TABLE FORMATTING
+===============*/
+
+
+
+.systems {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+    text-align: center;
+    padding: 2px;
+    
+}
+
+th {
+    background-color: gray;
+    color: lightgreen;
+    padding: 2px;
+    margin: 20px;
+}
+
+th, td {
+    padding: 1px;
+    border: 1px solid lightgray;
+    border-radius: 10px; 
+    width: 100%;
+}
+
+/*================
+COLUMNS FORMATTING
+=================*/
+.column {
+    float: left;
+    width: 50%;
+    height: 200px;
+    margin-bottom: 200px;
+    margin-top: 5%;
+  }
+
+@media screen and (max-width:600px) {
+  p {
+      color: darkblue;
+  }  
+}
+
+  .column p {
+      margin: 10%;
+  }
+
+  .column p:hover {
+      color: gold;
+      background-color: darkslateblue;
+      border-radius: 5px;
+  }
+  
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+  .planet {
+      border-radius: 10px;
+      border: lightslategray solid 2px;
+  }
+
+
+
+
+/*=========
+FOOTER CSS
+=========*/
+
+
+  footer {
+      text-align: center;
+      font-weight: 800;
+  }
