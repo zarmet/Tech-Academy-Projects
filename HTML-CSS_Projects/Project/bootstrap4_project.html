@@ -10,245 +10,287 @@
 
     <title>Hero Portal</title>
   </head>
-  <body>
-    <div class="container">
-        <nav class="navbar navbar-expand-lg navbar-light bg-secondary">
+<nav class="navbar fixed-top navbar-expand-lg navbar-light bg-secondary">
         
           
-            <div class="collapse navbar-collapse" id="navbarSupportedContent">
-              <ul class="navbar-nav mr-auto">
-    
-
-                <!--ABOUT SECTION-->
-                <li class="nav-item active">
-                  <a class="nav-link text-light" href="#jumbotron">About <span class="sr-only">(current)</span></a>
-                </li>
-                
-                <!--DROPDOWN FOR PARTIES-->
-                
-                <li class="nav-item active dropdown">
-                  <a class="nav-link dropdown-toggle text-light" href="#" id="navbarDropdown" role="hover" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                    Parties
-                  </a>
-                  <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                    <a class="dropdown-item" href="#good-party">The Good Party</a>
-                    
-                    <div class="dropdown-divider"></div>
-                    <a class="dropdown-item" href="#evil-party">The Evil Party</a>
-                    
-                    <div class="dropdown-divider"></div>
-                    <a class="dropdown-item" href="#neutral-party">The Neutral Party</a>
-                  </div>
-                </li>
-
-                <!--WORLD MAP-->
-                <li class="nav-item active">
-                    <a class="nav-link text-light" href="https://www.worldanvil.com/w/rigel-prime-xaq811/map/bf89f281-2d0c-4496-a0bc-bd34747c27a4" target="new">World Map</a>
-                  </li>
-              </ul>
-              <form class="form-inline my-2 my-lg-0">
-                <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
-                <button class="btn btn-outline-light text-light my-2 my-sm-0" type="submit">Search</button>
-              </form>
-            </div>
-          </nav>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav mr-auto">
 
 
-          <div class="jumbotron">
+        <!--ABOUT SECTION-->
+        <li class="nav-item active">
+          <a class="nav-link text-light" href="#jumbotron">About <span class="sr-only">(current)</span></a>
+        </li>
+        
+        <!--DROPDOWN FOR PARTIES-->
+        
+        <li class="nav-item active dropdown">
+          <a class="nav-link dropdown-toggle text-light" href="#" id="navbarDropdown" role="hover" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Parties
+          </a>
+          <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+            <a class="dropdown-item" id="gpdrop" href="#good-party">The Good Party</a>
+            
+            <div class="dropdown-divider"></div>
+            <a class="dropdown-item" id="epdrop" href="#evil-party">The Evil Party</a>
+            
+            <div class="dropdown-divider"></div>
+            <a class="dropdown-item" id="npdrop" href="#neutral-party">The Neutral Party</a>
+          </div>
+        </li>
+
+        <!--WORLD MAP-->
+        <li class="nav-item active">
+            <a class="nav-link text-light" href="https://www.worldanvil.com/w/rigel-prime-xaq811/map/bf89f281-2d0c-4496-a0bc-bd34747c27a4" target="new">World Map</a>
+          </li>
+      </ul>
+      <form class="form-inline my-2 my-lg-0">
+        <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+        <button class="btn btn-outline-light text-light my-2 my-sm-0" type="submit">Search</button>
+      </form>
+    </div>
+</nav>
+  <body>
+    <div class="container">
+        <div class="jumbotron">
             <h1 class="display-4">Welcome to the Rise of Valac Hero Portal!</h1>
             <p class="lead">No, not that kind of portal; this website was designed as a tool for TTRPG players.</p>
             <hr class="my-4">
             <p>Check out the Discord for more information!</p>
             <a class="btn btn-danger btn-lg" href="https://discord.gg/ufTUZvuks7" role="button" target="new">Dryskull Keep</a>
+        </div>
+
+        <!--ADDED COLLAPSABLE ACCORDION FOR DIFFERENT PARTIES 
+          TO MAKE THE WEBSITE LESS BULKY-->
+        <div class="accordion" id="accordionExample">
+            <div class="card">
+              <div class="card-header bg-info" id="headingOne">
+                <h2 class="mb-0">
+                  <button class="btn btn-link text-light" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                    The Saviors of Eladria
+                  </button>
+                </h2>
+              </div>
+          
+              <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionExample">
+                <div class="card-body">
+                    <div id="good-party"> 
+                        <div class="container bg-info text-light">
+                            <div class="row">
+                                <div class="col-sm">
+                                    <h4>The Good Party</h4>
+                                    <p>Having eliminated the Crimson Brotherhood in glorious battle, the Good Party 
+                                    is sneaking into Westhoek after a finch informed Orryn that the army's scout's 
+                                    have been captured and will be executed. With only 24 hours to spare, our heroes 
+                                    wasted no time in sneaking into the heavily manned motte-and-bailey village of Westhoek.
+                                    With great cunning and magic, the party disguised Zeed as a fire-breathing dragon to distract 
+                                    the guards while the others slipped by. After consuming several potions of growth and receiving 
+                                    Hothor's fire breath, Zeed took to the skies and caused utter havoc and panic among the 
+                                    poor souls watching the walls of Westhoek that night. As Hothor, Orryn, and Fargrim hasten to the 
+                                    shirrif's holding cells to rescue the captured scouts, Johnboy raced to home of his beloved Cora 
+                                    Kettlewhistle. After many long months in the Feywild, our halfling champion has longed to be with 
+                                    the lovely jeweller once more. Will Johnboy reunite with his love? Will the party save the scouts 
+                                    and uncover the plots of evil's forces before it's too late? Find out next time in The Rise of Valac! </p>
+                                </div>
+                            <!--<div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+                                <div class="carousel-inner">
+                                  <div class="carousel-item active">-->
+                                <div class="col-sm">
+                                    <!--Fargrim Card-->
+                                    <div class="card mt-5" style="width: 18rem;">
+                                        <img class="card-img-top" src="./images/thumb/thumbnail_1.png" alt="Fargrim">
+                                        <div class="card-body bg-secondary text-light">
+                                        <h5 class="card-title">Fargrim of Isiliath<span class="badge badge-pill badge-light">Lvl. 10 Cleric</span></h5>
+                                        <p class="card-text">The wise dwarven cleric, under the guidance of Selune, the goddess of twilight, 
+                                                                has saved his allies too many times to count.</p>
+                                        <a href="https://www.heroforge.com/load_config%3D11254213/" class="btn btn-danger" target="new">View Hero</a>
+                                        </div>
+                                    </div>
+                                </div>
+                                
+                                <div class="col-sm">
+                                                    <!--Johnboy Card-->
+                                    <div class="card mt-5" style="width: 18rem;">
+                                        <img class="card-img-top" src="./images/thumb/thumbnail_4.png" alt="Johnboy">
+                                        <div class="card-body bg-secondary text-light">
+                                        <h5 class="card-title">Ser Johnboy Tealeaf<span class="badge badge-pill badge-danger">Lvl. 11 Fighter</span></h5>
+                                        <p class="card-text">There are few foes that have seen the halfling champion's signature Gaffer Smash and lived to tell about it.</p>
+                                        <a href="https://www.heroforge.com/load_config%3D11252356/" class="btn btn-danger" target="new">View Hero</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-sm">
+                                    <!--Orryn Card-->
+                                    <div class="card mt-2 mb-5" style="width: 18rem;">
+                                        <img class="card-img-top" src="./images/thumb/thumbnail_2.png" alt="Orryn">
+                                        <div class="card-body bg-secondary text-light">
+                                        <h5 class="card-title">Orryn Reese<br><span class="badge badge-pill badge-success">Lvl. 10 Ranger</span><span class="badge  badge-pill badge-light ml-3">Lvl. 1 Cleric</span></h5>
+                                        <p class="card-text">With his new powers from the divine, the Gnome Ranger is sure to seek and destroy any enemy of the gnomes.</p>
+                                        <a href="https://www.heroforge.com/load_config%3D11093911/" class="btn btn-danger" target="new">View Hero</a>
+                                        </div>
+                                    </div>
+                                </div>
+            
+                                <div class="col-sm">
+                                    <!--Zeed Card-->
+                                    <div class="card mt-2 mb-5" style="width: 18rem;">
+                                        <img class="card-img-top" src="./images/thumb/thumbnail_3.png" alt="Zeed">
+                                        <div class="card-body bg-secondary text-light">
+                                        <h5 class="card-title">Zeed of Aaqa<br><span class="badge badge-pill badge-primary">Lvl. 11 Monk</span></h5>
+                                        <p class="card-text">Those that hinder the aarakocra monk on his path to redemption are soon laid to waste by a devastating flurry of blows.</p>
+                                        <a href="https://www.heroforge.com/load_config%3D11094852/" class="btn btn-danger" target="new">View Hero</a>
+                                        </div>
+                                    </div>
+                                </div>
+            
+            
+                                <div class="col-sm">
+                                    <!--Hothor Card-->
+                                    <div class="card mt-2 mb-5" style="width: 18rem;">
+                                        <img class="card-img-top" src="./images/thumb/thumbnail_5.png" alt="Hothor">
+                                        <div class="card-body bg-secondary text-light">
+                                        <h5 class="card-title">Hothor Shatterstone<span class="badge badge-pill badge-danger">Lvl. 10 Fighter</span></h5>
+                                        <p class="card-text">By spear or by spell, if the Dovahkiin eldritch knight wants something dead, he'll make it dead.</p>
+                                        <a href="https://www.heroforge.com/load_config%3D11286020/" class="btn btn-danger" target="new">View Hero</a>
+                                        </div>
+                                    </div> 
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+              </div>
+            </div>
+
+
+            <div class="card">
+              <div class="card-header bg-danger" id="headingTwo">
+                <h2 class="mb-0">
+                  <button class="btn btn-link collapsed text-dark" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                    The Champions of Shadar
+                  </button>
+                </h2>
+              </div>
+              <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
+                <div class="card-body">
+                    <div id="evil-party"> 
+                        <div class="container bg-danger">
+                            <div class="row">
+                                <div class="col-sm">
+                                    <h4>The Evil Party</h4>
+                                    <p>With their minds shattered, the Evil Party feels compelled to investigate the 
+                                        Dreamfort of Sokahlsh. As our villains neared this sinister fortress carved from a massive stone 
+                                        crag, the members of 
+                                        the Evil Party couldn't help the feeling as if they were being watched. When they arrived at the 
+                                        great stone door guarded by ogre zombies, the servants of Paimon were greeted by a strange red "eye"
+                                        in the door. Koriand'r was able to understand the ominous entity and negotiate with it, yet In her ignorance, 
+                                        the sorceress insulted the entity with her "gift" of slaves. When Koriand'r resisted the telekinetic force meant
+                                        to vanquish her, the mysterious outcast Bardis surprised everyone by taunting the entity in its native 
+                                        tongue. Maximus Bardis' hubris was short lived as the furious creature disintegrated the eldritch warlock on the spot. Taking their cue, 
+                                        the worshippers of Paimon quickly slew the guards and made their way into the darkness of the citadel. What terrors await our villains within
+                                        the Dreamfort of Sokahlsh? Who will die next? Find out next time in The Rise of Valac!</p>
+                                  
+                                </div>
+                            <!--<div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+                                <div class="carousel-inner">
+                                  <div class="carousel-item active">-->
+                                <div class="col-sm">
+                                    <!--Xythlaxxx Card-->
+                                    <div class="card mt-5" style="width: 18rem;">
+                                        <img class="card-img-top" src="./images/thumb/thumbnail_7.png" alt="Xythlaxxx Braxxtongue">
+                                        <div class="card-body bg-secondary text-light">
+                                        <h5 class="card-title">Xythlaxxx Braxxtongue<span class="badge badge-pill badge-warning">Lvl. 11 Paladin</span></h5>
+                                        <p class="card-text">A well of innate infernal power, the dragonborn oathbreaker's rivals fear the day when X gon' give it to 'em.</p>
+                                        <a href="https://www.heroforge.com/load_config%3D10065353/" class="btn btn-danger" target="new">View Hero</a>
+                                        </div>
+                                    </div>
+                                </div>
+                                
+                                <div class="col-sm">
+                                    <!--Labius Card-->
+                                    <div class="card mt-5" style="width: 18rem;">
+                                        <img class="card-img-top" src="./images/thumb/thumbnail_8.png" alt="Card image cap">
+                                        <div class="card-body bg-secondary text-light">
+                                        <h5 class="card-title">Labius Minoris<br><span class="badge badge-pill badge-light">Lvl. 10 Bard</span></h5>
+                                        <p class="card-text">As much a scoundrel in death as he was in life, this half-elf bard's enemies often beg for death before the end.</p>
+                                        <a href="https://www.heroforge.com/load_config%3D11328890/" class="btn btn-danger" target="new">View Hero</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-sm">
+                                    <!--Koriandr Card-->
+                                    <div class="card mt-2 mb-5" style="width: 18rem;">
+                                        <img class="card-img-top" src="./images/thumb/thumbnail_6.png" alt="Card image cap">
+                                        <div class="card-body bg-secondary text-light">
+                                        <h5 class="card-title">Koriand'r Starflower<span class="badge badge-pill badge-info">Lvl. 11 Sorcerer</span></h5>
+                                        <p class="card-text">The half-elf sorceress' curse fuels her chaotic wild magic, making her a deadly threat to any who cross her, and even some who don't.</p>
+                                        <a href="https://www.heroforge.com/load_config%3D11284591/" class="btn btn-danger" target="new">View Hero</a>
+                                        </div>
+                                    </div>
+                                </div>
+            
+                                <div class="col-sm">
+                                    <!--Vestus Card-->
+                                    <div class="card mt-2 mb-5" style="width: 18rem;">
+                                        <img class="card-img-top" src="./images/thumb/thumbnail_10.png" alt="Card image cap">
+                                        <div class="card-body bg-secondary text-light">
+                                        <h5 class="card-title">Lord Armon Vestus<span class="badge badge-pill badge-danger">Lvl. 10 Fighter</span></h5>
+                                        <p class="card-text">An exiled eldritch knight from Arnmoor nobility, the fallen aasimar uses his burning blade to execute anyone he deems a threat. </p>
+                                        <a href="https://www.heroforge.com/load_config%3D19438299/" class="btn btn-danger" target="new">View Hero</a>
+                                        </div>
+                                    </div>
+                                </div>
+            
+            
+                                <div class="col-sm">
+                                    <!--Balasar Card-->
+                                    <div class="card mt-2 mb-5" style="width: 18rem;">
+                                        <img class="card-img-top" src="./images/thumb/thumbnail_11.png" alt="Card image cap">
+                                        <div class="card-body bg-secondary text-light">
+                                        <h5 class="card-title">Cpt. Balasar Ebbasheyth<span class="badge badge-pill badge-danger">Lvl. 10 Barbarian</span></h5>
+                                        <p class="card-text">Prone to storming rages, this dragonborn barbarian has sent many yuan-ti to their graves with his renowned hammer.</p>
+                                        <a href="https://www.heroforge.com/load_config%3D19902720/" class="btn btn-danger" target="new">View Hero</a>
+                                        </div>
+                                    </div> 
+                                </div>
+                            </div>
+                        </div>
+                    
+                
+                    </div>
+                </div>
+              </div>
+            </div>
+
+
+            <div class="card">
+              <div class="card-header bg-warning" id="headingThree">
+                <h2 class="mb-0">
+                  <button class="btn btn-link collapsed text-dark" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                    The Agents of Colombo
+                  </button>
+                </h2>
+              </div>
+              <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
+                <div class="card-body">
+                    <div id="neutral-party"> 
+                        <div class="container h-100 bg-warning">
+                            <div class="row">
+                                <div class="col-sm">
+                                    <h4>The Neutral Party</h4>
+                                    <p  style="margin-bottom: 670px;"><br>Coming soon!</p>
+                                </div>  
+                            </div>
+                        </div>
+                    </div>
+                </div>
+              </div>
+            </div>
           </div>
-
-        
-          <div id="good-party"> 
-            <div class="container bg-info text-light">
-                <div class="row">
-                    <div class="col-sm">
-                        <h4>The Good Party</h4>
-                        <p>Having eliminated the Crimson Brotherhood in glorious battle, the Good Party 
-                        is sneaking into Westhoek after a finch informed Orryn that the army's scout's 
-                        have been captured and will be executed. With only 24 hours to spare, our heroes 
-                        wasted no time in sneaking into the heavily manned motte-and-bailey village of Westhoek.
-                        With great cunning and magic, the party disguised Zeed as a fire-breathing dragon to distract 
-                        the guards while the others slipped by. After consuming several potions of growth and receiving 
-                        Hothor's fire breath, Zeed took to the skies and caused utter havoc and panic among the 
-                        poor souls watching the walls of Westhoek that night. As Hothor, Orryn, and Fargrim hasten to the 
-                        shirrif's holding cells to rescue the captured scouts, Johnboy raced to home of his beloved Cora 
-                        Kettlewhistle. After many long months in the Feywild, our halfling champion has longed to be with 
-                        the lovely jeweller once more. Will Johnboy reunite with his love? Will the party save the scouts 
-                        and uncover the plots of evil's forces before it's too late? Find out next time in The Rise of Valac! </p>
-                    </div>
-                <!--<div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
-                    <div class="carousel-inner">
-                      <div class="carousel-item active">-->
-                    <div class="col-sm">
-                        <!--Fargrim Card-->
-                        <div class="card mt-5" style="width: 18rem;">
-                            <img class="card-img-top" src="./images/thumb/thumbnail_1.png" alt="Fargrim">
-                            <div class="card-body bg-secondary text-light">
-                            <h5 class="card-title">Fargrim of Isiliath<span class="badge badge-pill badge-light">Lvl. 10 Cleric</span></h5>
-                            <p class="card-text">The wise dwarven cleric, under the guidance of Selune, the goddess of twilight, 
-                                                    has saved his allies too many times to count.</p>
-                            <a href="https://www.heroforge.com/load_config%3D11254213/" class="btn btn-danger" target="new">View Hero</a>
-                            </div>
-                        </div>
-                    </div>
-                    
-                    <div class="col-sm">
-                                        <!--Johnboy Card-->
-                        <div class="card mt-5" style="width: 18rem;">
-                            <img class="card-img-top" src="./images/thumb/thumbnail_4.png" alt="Johnboy">
-                            <div class="card-body bg-secondary text-light">
-                            <h5 class="card-title">Ser Johnboy Tealeaf<span class="badge badge-pill badge-danger">Lvl. 11 Fighter</span></h5>
-                            <p class="card-text">There are few foes that have seen the halfling champion's signature Gaffer Smash and lived to tell about it.</p>
-                            <a href="https://www.heroforge.com/load_config%3D11252356/" class="btn btn-danger" target="new">View Hero</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-sm">
-                        <!--Orryn Card-->
-                        <div class="card mt-2 mb-5" style="width: 18rem;">
-                            <img class="card-img-top" src="./images/thumb/thumbnail_2.png" alt="Orryn">
-                            <div class="card-body bg-secondary text-light">
-                            <h5 class="card-title">Orryn Reese<br><span class="badge badge-pill badge-success">Lvl. 10 Ranger</span><span class="badge  badge-pill badge-light ml-3">Lvl. 1 Cleric</span></h5>
-                            <p class="card-text">With his new powers from the divine, the Gnome Ranger is sure to seek and destroy any enemy of the gnomes.</p>
-                            <a href="https://www.heroforge.com/load_config%3D11093911/" class="btn btn-danger" target="new">View Hero</a>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-sm">
-                        <!--Zeed Card-->
-                        <div class="card mt-2 mb-5" style="width: 18rem;">
-                            <img class="card-img-top" src="./images/thumb/thumbnail_3.png" alt="Zeed">
-                            <div class="card-body bg-secondary text-light">
-                            <h5 class="card-title">Zeed of Aaqa<br><span class="badge badge-pill badge-primary">Lvl. 11 Monk</span></h5>
-                            <p class="card-text">Those that hinder the aarakocra monk on his path to redemption are soon laid to waste by a devastating flurry of blows.</p>
-                            <a href="https://www.heroforge.com/load_config%3D11094852/" class="btn btn-danger" target="new">View Hero</a>
-                            </div>
-                        </div>
-                    </div>
-
-
-                    <div class="col-sm">
-                        <!--Hothor Card-->
-                        <div class="card mt-2 mb-5" style="width: 18rem;">
-                            <img class="card-img-top" src="./images/thumb/thumbnail_5.png" alt="Hothor">
-                            <div class="card-body bg-secondary text-light">
-                            <h5 class="card-title">Hothor Shatterstone<span class="badge badge-pill badge-danger">Lvl. 10 Fighter</span></h5>
-                            <p class="card-text">By spear or by spell, if the Dovahkiin eldritch knight wants something dead, he'll make it dead.</p>
-                            <a href="https://www.heroforge.com/load_config%3D11286020/" class="btn btn-danger" target="new">View Hero</a>
-                            </div>
-                        </div> 
-                    </div>
-                </div>
-            </div>
-        </div>
-
-
-        <div id="evil-party"> 
-            <div class="container bg-danger">
-                <div class="row">
-                    <div class="col-sm">
-                        <h4>The Evil Party</h4>
-                        <p>With their minds shattered, the Evil Party feels compelled to investigate the 
-                            Dreamfort of Sokahlsh. As our villains neared this sinister fortress carved from a massive stone 
-                            crag, the members of 
-                            the Evil Party couldn't help the feeling as if they were being watched. When they arrived at the 
-                            great stone door guarded by ogre zombies, the servants of Paimon were greeted by a strange red "eye"
-                            in the door. Koriand'r was able to understand the ominous entity and negotiate with it, yet In her ignorance, 
-                            the sorceress insulted the entity with her "gift" of slaves. When Koriand'r resisted the telekinetic force meant
-                            to vanquish her, the mysterious outcast Bardis surprised everyone by taunting the entity in its native 
-                            tongue. Maximus Bardis' hubris was short lived as the furious creature disintegrated the eldritch warlock on the spot. Taking their cue, 
-                            the worshippers of Paimon quickly slew the guards and made their way into the darkness of the citadel. What terrors await our villains within
-                            the Dreamfort of Sokahlsh? Who will die next? Find out next time in The Rise of Valac!</p>
-                      
-                    </div>
-                <!--<div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
-                    <div class="carousel-inner">
-                      <div class="carousel-item active">-->
-                    <div class="col-sm">
-                        <!--Xythlaxxx Card-->
-                        <div class="card mt-5" style="width: 18rem;">
-                            <img class="card-img-top" src="./images/thumb/thumbnail_7.png" alt="Xythlaxxx Braxxtongue">
-                            <div class="card-body bg-secondary text-light">
-                            <h5 class="card-title">Xythlaxxx Braxxtongue<span class="badge badge-pill badge-warning">Lvl. 11 Paladin</span></h5>
-                            <p class="card-text">A well of innate infernal power, the dragonborn oathbreaker's rivals fear the day when X gon' give it to 'em.</p>
-                            <a href="https://www.heroforge.com/load_config%3D10065353/" class="btn btn-danger" target="new">View Hero</a>
-                            </div>
-                        </div>
-                    </div>
-                    
-                    <div class="col-sm">
-                        <!--Labius Card-->
-                        <div class="card mt-5" style="width: 18rem;">
-                            <img class="card-img-top" src="./images/thumb/thumbnail_8.png" alt="Card image cap">
-                            <div class="card-body bg-secondary text-light">
-                            <h5 class="card-title">Labius Minoris<br><span class="badge badge-pill badge-light">Lvl. 10 Bard</span></h5>
-                            <p class="card-text">As much a scoundrel in death as he was in life, this half-elf bard's enemies often beg for death before the end.</p>
-                            <a href="https://www.heroforge.com/load_config%3D11328890/" class="btn btn-danger" target="new">View Hero</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-sm">
-                        <!--Koriandr Card-->
-                        <div class="card mt-2 mb-5" style="width: 18rem;">
-                            <img class="card-img-top" src="./images/thumb/thumbnail_6.png" alt="Card image cap">
-                            <div class="card-body bg-secondary text-light">
-                            <h5 class="card-title">Koriand'r Starflower<span class="badge badge-pill badge-info">Lvl. 11 Sorcerer</span></h5>
-                            <p class="card-text">The half-elf sorceress' curse fuels her chaotic wild magic, making her a deadly threat to any who cross her, and even some who don't.</p>
-                            <a href="https://www.heroforge.com/load_config%3D11284591/" class="btn btn-danger" target="new">View Hero</a>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-sm">
-                        <!--Vestus Card-->
-                        <div class="card mt-2 mb-5" style="width: 18rem;">
-                            <img class="card-img-top" src="./images/thumb/thumbnail_10.png" alt="Card image cap">
-                            <div class="card-body bg-secondary text-light">
-                            <h5 class="card-title">Lord Armon Vestus<span class="badge badge-pill badge-danger">Lvl. 10 Fighter</span></h5>
-                            <p class="card-text">An exiled eldritch knight from Arnmoor nobility, the fallen aasimar uses his burning blade to execute anyone he deems a threat. </p>
-                            <a href="https://www.heroforge.com/load_config%3D19438299/" class="btn btn-danger" target="new">View Hero</a>
-                            </div>
-                        </div>
-                    </div>
-
-
-                    <div class="col-sm">
-                        <!--Balasar Card-->
-                        <div class="card mt-2 mb-5" style="width: 18rem;">
-                            <img class="card-img-top" src="./images/thumb/thumbnail_11.png" alt="Card image cap">
-                            <div class="card-body bg-secondary text-light">
-                            <h5 class="card-title">Cpt. Balasar Ebbasheyth<span class="badge badge-pill badge-danger">Lvl. 10 Barbarian</span></h5>
-                            <p class="card-text">Prone to storming rages, this dragonborn barbarian has sent many yuan-ti to their graves with his renowned hammer.</p>
-                            <a href="https://www.heroforge.com/load_config%3D19902720/" class="btn btn-danger" target="new">View Hero</a>
-                            </div>
-                        </div> 
-                    </div>
-                </div>
-            </div>
-        
-    
-
-            <div id="neutral-party"> 
-                <div class="container h-100 bg-warning">
-                    <div class="row">
-                        <div class="col-sm">
-                            <h4>The Neutral Party</h4>
-                            <p  style="margin-bottom: 670px;"><br>Coming soon!</p>
-                        </div>  
-                    </div>
-                </div>
-            </div>
-        </div>
 
     </div>
 
@@ -257,5 +299,38 @@
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+    
+    <!--SCRIPTS TO LINK THE NAVBAR TO THE ACCORDION PAGES-->
+    <script>
+      $('#gpdrop').click ( function () {
+        $('.collapse').collapse();
+        $('#collapseOne').collapse().show();
+      })
+
+      $('#epdrop').click ( function () {
+        $('.collapse').collapse();
+        $('#collapseTwo').collapse().show();
+      })
+
+      $('#npdrop').click ( function () {
+        $('.collapse').collapse();
+        $('#collapseThree').collapse().show();
+      })
+
+      $('#collapseOne').click ( function () {
+        $('#collapseTwo').collapse();
+        $('#collapseThree').collapse();
+      })
+
+      $('#collapseTwo').click ( function () {
+        $('#collapseOne').collapse();
+        $('#collapseThree').collapse();
+      })
+
+      $('#collapseThree').click ( function () {
+        $('#collapseTwo').collapse();
+        $('#collapseOne').collapse();
+      })
+    </script>
   </body>
 </html>
