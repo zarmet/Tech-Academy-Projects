@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <script src="https://unpkg.com/react@16/umd/react.development.js" crossorigin="">
+    </script>
+    <script src="https://unpkg.com/react-dom@16/umd/react-dom.development.js" crossorigin="">
+    </script>
+    <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+
+    <title>TITLE</title>
+  </head>
+
+  <!--BODY-->
+  <body>
+    <div id="jsx"></div>
+
+    <script type="text/babel">
+        class Greeting extends React.Component {
+            render() {
+                return <h1>Howdy partner!</h1>
+            }
+        }
+        ReactDOM.render(<Greeting />, document.getElementById('jsx'))
+    </script>
+  </body>
+
+
+</html>

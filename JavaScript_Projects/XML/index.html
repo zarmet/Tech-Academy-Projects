@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <title>TITLE</title>
+  </head>
+
+  <!--BODY-->
+  <body>
+    <p id="XMLexample"></p>
+    <!--Calling JavaScript-->
+    <script>
+        var XML_Parser, XML_Document;
+        //creates text string
+        var movie = "<movie>" +
+        "<title>Pulp Fiction</title>" +
+        "<director>Quentin Tarantino</director>" +
+        "<starring>Samuel L. Jackson</starring>" +
+        "<starring>John Travolta</starring>" +
+        "<starring>Uma Thurman</starring>" +
+        "<year>1994</year>" +
+        "</movie>";
+
+        //creates an xml DOM parser
+        XML_Parser = new DOMParser ();
+
+        //creates a new xml DOM object with the string
+        XML_Document = XML_Parser.parseFromString(movie, 'text/xml');
+
+        document.getElementById("XMLexample").innerHTML =
+        XML_Document.getElementsByTagName("title")[0].childNodes[0].nodeValue;
+    </script>
+  </body>
+
+
+</html>
