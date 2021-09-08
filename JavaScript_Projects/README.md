@@ -1,11 +1,7 @@
 # Tech-Academy-Projects
 This repository is for my JavaScript projects w/ the Tech Academy
 
-Pizza Project
-Calculator
-TicTacToe
-ToDo App
-Portfolio Website
+
 
 Pizza Project- A cheeky little pizza menu that allows a customer to order a single pizza and the program returns the price
 
