@@ -1,0 +1,1 @@
+execute [dbo].[getAnimalinfo] 'chicken'
