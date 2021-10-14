@@ -8,7 +8,6 @@ D:\Tech-Academy-Projects\Visual Studio\Crafts\Crafts\bin\Debug\netcoreapp3.1\Bea
 D:\Tech-Academy-Projects\Visual Studio\Crafts\Crafts\bin\Debug\netcoreapp3.1\Bear.pdb
 D:\Tech-Academy-Projects\Visual Studio\Crafts\Crafts\bin\Debug\netcoreapp3.1\Bear.Views.dll
 D:\Tech-Academy-Projects\Visual Studio\Crafts\Crafts\bin\Debug\netcoreapp3.1\Bear.Views.pdb
-D:\Tech-Academy-Projects\Visual Studio\Crafts\Crafts\obj\Debug\netcoreapp3.1\Bear.csproj.AssemblyReference.cache
 D:\Tech-Academy-Projects\Visual Studio\Crafts\Crafts\obj\Debug\netcoreapp3.1\Bear.GeneratedMSBuildEditorConfig.editorconfig
 D:\Tech-Academy-Projects\Visual Studio\Crafts\Crafts\obj\Debug\netcoreapp3.1\Bear.AssemblyInfoInputs.cache
 D:\Tech-Academy-Projects\Visual Studio\Crafts\Crafts\obj\Debug\netcoreapp3.1\Bear.AssemblyInfo.cs
