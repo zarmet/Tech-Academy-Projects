@@ -1,0 +1,14 @@
+D:\Tech-Academy-Projects\Basic_C#_Projects\AnonIncomeCompare\AnonIncomeCompare\bin\Debug\netcoreapp3.1\AnonIncomeCompare.exe
+D:\Tech-Academy-Projects\Basic_C#_Projects\AnonIncomeCompare\AnonIncomeCompare\bin\Debug\netcoreapp3.1\AnonIncomeCompare.deps.json
+D:\Tech-Academy-Projects\Basic_C#_Projects\AnonIncomeCompare\AnonIncomeCompare\bin\Debug\netcoreapp3.1\AnonIncomeCompare.runtimeconfig.json
+D:\Tech-Academy-Projects\Basic_C#_Projects\AnonIncomeCompare\AnonIncomeCompare\bin\Debug\netcoreapp3.1\AnonIncomeCompare.runtimeconfig.dev.json
+D:\Tech-Academy-Projects\Basic_C#_Projects\AnonIncomeCompare\AnonIncomeCompare\bin\Debug\netcoreapp3.1\AnonIncomeCompare.dll
+D:\Tech-Academy-Projects\Basic_C#_Projects\AnonIncomeCompare\AnonIncomeCompare\bin\Debug\netcoreapp3.1\AnonIncomeCompare.pdb
+D:\Tech-Academy-Projects\Basic_C#_Projects\AnonIncomeCompare\AnonIncomeCompare\obj\Debug\netcoreapp3.1\AnonIncomeCompare.csproj.AssemblyReference.cache
+D:\Tech-Academy-Projects\Basic_C#_Projects\AnonIncomeCompare\AnonIncomeCompare\obj\Debug\netcoreapp3.1\AnonIncomeCompare.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tech-Academy-Projects\Basic_C#_Projects\AnonIncomeCompare\AnonIncomeCompare\obj\Debug\netcoreapp3.1\AnonIncomeCompare.AssemblyInfoInputs.cache
+D:\Tech-Academy-Projects\Basic_C#_Projects\AnonIncomeCompare\AnonIncomeCompare\obj\Debug\netcoreapp3.1\AnonIncomeCompare.AssemblyInfo.cs
+D:\Tech-Academy-Projects\Basic_C#_Projects\AnonIncomeCompare\AnonIncomeCompare\obj\Debug\netcoreapp3.1\AnonIncomeCompare.csproj.CoreCompileInputs.cache
+D:\Tech-Academy-Projects\Basic_C#_Projects\AnonIncomeCompare\AnonIncomeCompare\obj\Debug\netcoreapp3.1\AnonIncomeCompare.dll
+D:\Tech-Academy-Projects\Basic_C#_Projects\AnonIncomeCompare\AnonIncomeCompare\obj\Debug\netcoreapp3.1\AnonIncomeCompare.pdb
+D:\Tech-Academy-Projects\Basic_C#_Projects\AnonIncomeCompare\AnonIncomeCompare\obj\Debug\netcoreapp3.1\AnonIncomeCompare.genruntimeconfig.cache
