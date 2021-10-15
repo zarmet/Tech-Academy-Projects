@@ -1,0 +1,14 @@
+D:\Tech-Academy-Projects\Basic_C#_Projects\DailyReport\DailyReport\bin\Debug\netcoreapp3.1\DailyReport.exe
+D:\Tech-Academy-Projects\Basic_C#_Projects\DailyReport\DailyReport\bin\Debug\netcoreapp3.1\DailyReport.deps.json
+D:\Tech-Academy-Projects\Basic_C#_Projects\DailyReport\DailyReport\bin\Debug\netcoreapp3.1\DailyReport.runtimeconfig.json
+D:\Tech-Academy-Projects\Basic_C#_Projects\DailyReport\DailyReport\bin\Debug\netcoreapp3.1\DailyReport.runtimeconfig.dev.json
+D:\Tech-Academy-Projects\Basic_C#_Projects\DailyReport\DailyReport\bin\Debug\netcoreapp3.1\DailyReport.dll
+D:\Tech-Academy-Projects\Basic_C#_Projects\DailyReport\DailyReport\bin\Debug\netcoreapp3.1\DailyReport.pdb
+D:\Tech-Academy-Projects\Basic_C#_Projects\DailyReport\DailyReport\obj\Debug\netcoreapp3.1\DailyReport.csproj.AssemblyReference.cache
+D:\Tech-Academy-Projects\Basic_C#_Projects\DailyReport\DailyReport\obj\Debug\netcoreapp3.1\DailyReport.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tech-Academy-Projects\Basic_C#_Projects\DailyReport\DailyReport\obj\Debug\netcoreapp3.1\DailyReport.AssemblyInfoInputs.cache
+D:\Tech-Academy-Projects\Basic_C#_Projects\DailyReport\DailyReport\obj\Debug\netcoreapp3.1\DailyReport.AssemblyInfo.cs
+D:\Tech-Academy-Projects\Basic_C#_Projects\DailyReport\DailyReport\obj\Debug\netcoreapp3.1\DailyReport.csproj.CoreCompileInputs.cache
+D:\Tech-Academy-Projects\Basic_C#_Projects\DailyReport\DailyReport\obj\Debug\netcoreapp3.1\DailyReport.dll
+D:\Tech-Academy-Projects\Basic_C#_Projects\DailyReport\DailyReport\obj\Debug\netcoreapp3.1\DailyReport.pdb
+D:\Tech-Academy-Projects\Basic_C#_Projects\DailyReport\DailyReport\obj\Debug\netcoreapp3.1\DailyReport.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\Tech-Academy-Projects\Basic_C#_Projects\myConsoleProject\myConsoleProject\bin\Debug\netcoreapp3.1\myConsoleProject.exe
+D:\Tech-Academy-Projects\Basic_C#_Projects\myConsoleProject\myConsoleProject\bin\Debug\netcoreapp3.1\myConsoleProject.deps.json
+D:\Tech-Academy-Projects\Basic_C#_Projects\myConsoleProject\myConsoleProject\bin\Debug\netcoreapp3.1\myConsoleProject.runtimeconfig.json
+D:\Tech-Academy-Projects\Basic_C#_Projects\myConsoleProject\myConsoleProject\bin\Debug\netcoreapp3.1\myConsoleProject.runtimeconfig.dev.json
+D:\Tech-Academy-Projects\Basic_C#_Projects\myConsoleProject\myConsoleProject\bin\Debug\netcoreapp3.1\myConsoleProject.dll
+D:\Tech-Academy-Projects\Basic_C#_Projects\myConsoleProject\myConsoleProject\bin\Debug\netcoreapp3.1\myConsoleProject.pdb
+D:\Tech-Academy-Projects\Basic_C#_Projects\myConsoleProject\myConsoleProject\obj\Debug\netcoreapp3.1\myConsoleProject.csproj.AssemblyReference.cache
+D:\Tech-Academy-Projects\Basic_C#_Projects\myConsoleProject\myConsoleProject\obj\Debug\netcoreapp3.1\myConsoleProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tech-Academy-Projects\Basic_C#_Projects\myConsoleProject\myConsoleProject\obj\Debug\netcoreapp3.1\myConsoleProject.AssemblyInfoInputs.cache
+D:\Tech-Academy-Projects\Basic_C#_Projects\myConsoleProject\myConsoleProject\obj\Debug\netcoreapp3.1\myConsoleProject.AssemblyInfo.cs
+D:\Tech-Academy-Projects\Basic_C#_Projects\myConsoleProject\myConsoleProject\obj\Debug\netcoreapp3.1\myConsoleProject.csproj.CoreCompileInputs.cache
+D:\Tech-Academy-Projects\Basic_C#_Projects\myConsoleProject\myConsoleProject\obj\Debug\netcoreapp3.1\myConsoleProject.dll
+D:\Tech-Academy-Projects\Basic_C#_Projects\myConsoleProject\myConsoleProject\obj\Debug\netcoreapp3.1\myConsoleProject.pdb
+D:\Tech-Academy-Projects\Basic_C#_Projects\myConsoleProject\myConsoleProject\obj\Debug\netcoreapp3.1\myConsoleProject.genruntimeconfig.cache
