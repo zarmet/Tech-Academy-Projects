@@ -1,0 +1,14 @@
+D:\Tech-Academy-Projects\Basic_C#_Projects\InsuranceApproval\InsuranceApproval\bin\Debug\netcoreapp3.1\InsuranceApproval.exe
+D:\Tech-Academy-Projects\Basic_C#_Projects\InsuranceApproval\InsuranceApproval\bin\Debug\netcoreapp3.1\InsuranceApproval.deps.json
+D:\Tech-Academy-Projects\Basic_C#_Projects\InsuranceApproval\InsuranceApproval\bin\Debug\netcoreapp3.1\InsuranceApproval.runtimeconfig.json
+D:\Tech-Academy-Projects\Basic_C#_Projects\InsuranceApproval\InsuranceApproval\bin\Debug\netcoreapp3.1\InsuranceApproval.runtimeconfig.dev.json
+D:\Tech-Academy-Projects\Basic_C#_Projects\InsuranceApproval\InsuranceApproval\bin\Debug\netcoreapp3.1\InsuranceApproval.dll
+D:\Tech-Academy-Projects\Basic_C#_Projects\InsuranceApproval\InsuranceApproval\bin\Debug\netcoreapp3.1\InsuranceApproval.pdb
+D:\Tech-Academy-Projects\Basic_C#_Projects\InsuranceApproval\InsuranceApproval\obj\Debug\netcoreapp3.1\InsuranceApproval.csproj.AssemblyReference.cache
+D:\Tech-Academy-Projects\Basic_C#_Projects\InsuranceApproval\InsuranceApproval\obj\Debug\netcoreapp3.1\InsuranceApproval.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tech-Academy-Projects\Basic_C#_Projects\InsuranceApproval\InsuranceApproval\obj\Debug\netcoreapp3.1\InsuranceApproval.AssemblyInfoInputs.cache
+D:\Tech-Academy-Projects\Basic_C#_Projects\InsuranceApproval\InsuranceApproval\obj\Debug\netcoreapp3.1\InsuranceApproval.AssemblyInfo.cs
+D:\Tech-Academy-Projects\Basic_C#_Projects\InsuranceApproval\InsuranceApproval\obj\Debug\netcoreapp3.1\InsuranceApproval.csproj.CoreCompileInputs.cache
+D:\Tech-Academy-Projects\Basic_C#_Projects\InsuranceApproval\InsuranceApproval\obj\Debug\netcoreapp3.1\InsuranceApproval.dll
+D:\Tech-Academy-Projects\Basic_C#_Projects\InsuranceApproval\InsuranceApproval\obj\Debug\netcoreapp3.1\InsuranceApproval.pdb
+D:\Tech-Academy-Projects\Basic_C#_Projects\InsuranceApproval\InsuranceApproval\obj\Debug\netcoreapp3.1\InsuranceApproval.genruntimeconfig.cache
