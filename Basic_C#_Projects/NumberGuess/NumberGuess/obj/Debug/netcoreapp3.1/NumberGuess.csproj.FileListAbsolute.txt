@@ -1,0 +1,14 @@
+D:\Tech-Academy-Projects\Basic_C#_Projects\NumberGuess\NumberGuess\bin\Debug\netcoreapp3.1\NumberGuess.exe
+D:\Tech-Academy-Projects\Basic_C#_Projects\NumberGuess\NumberGuess\bin\Debug\netcoreapp3.1\NumberGuess.deps.json
+D:\Tech-Academy-Projects\Basic_C#_Projects\NumberGuess\NumberGuess\bin\Debug\netcoreapp3.1\NumberGuess.runtimeconfig.json
+D:\Tech-Academy-Projects\Basic_C#_Projects\NumberGuess\NumberGuess\bin\Debug\netcoreapp3.1\NumberGuess.runtimeconfig.dev.json
+D:\Tech-Academy-Projects\Basic_C#_Projects\NumberGuess\NumberGuess\bin\Debug\netcoreapp3.1\NumberGuess.dll
+D:\Tech-Academy-Projects\Basic_C#_Projects\NumberGuess\NumberGuess\bin\Debug\netcoreapp3.1\NumberGuess.pdb
+D:\Tech-Academy-Projects\Basic_C#_Projects\NumberGuess\NumberGuess\obj\Debug\netcoreapp3.1\NumberGuess.csproj.AssemblyReference.cache
+D:\Tech-Academy-Projects\Basic_C#_Projects\NumberGuess\NumberGuess\obj\Debug\netcoreapp3.1\NumberGuess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tech-Academy-Projects\Basic_C#_Projects\NumberGuess\NumberGuess\obj\Debug\netcoreapp3.1\NumberGuess.AssemblyInfoInputs.cache
+D:\Tech-Academy-Projects\Basic_C#_Projects\NumberGuess\NumberGuess\obj\Debug\netcoreapp3.1\NumberGuess.AssemblyInfo.cs
+D:\Tech-Academy-Projects\Basic_C#_Projects\NumberGuess\NumberGuess\obj\Debug\netcoreapp3.1\NumberGuess.csproj.CoreCompileInputs.cache
+D:\Tech-Academy-Projects\Basic_C#_Projects\NumberGuess\NumberGuess\obj\Debug\netcoreapp3.1\NumberGuess.dll
+D:\Tech-Academy-Projects\Basic_C#_Projects\NumberGuess\NumberGuess\obj\Debug\netcoreapp3.1\NumberGuess.pdb
+D:\Tech-Academy-Projects\Basic_C#_Projects\NumberGuess\NumberGuess\obj\Debug\netcoreapp3.1\NumberGuess.genruntimeconfig.cache
