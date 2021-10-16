@@ -1,0 +1,14 @@
+D:\Tech-Academy-Projects\Basic_C#_Projects\PackageQuote\PackageQuote\bin\Debug\netcoreapp3.1\PackageQuote.exe
+D:\Tech-Academy-Projects\Basic_C#_Projects\PackageQuote\PackageQuote\bin\Debug\netcoreapp3.1\PackageQuote.deps.json
+D:\Tech-Academy-Projects\Basic_C#_Projects\PackageQuote\PackageQuote\bin\Debug\netcoreapp3.1\PackageQuote.runtimeconfig.json
+D:\Tech-Academy-Projects\Basic_C#_Projects\PackageQuote\PackageQuote\bin\Debug\netcoreapp3.1\PackageQuote.runtimeconfig.dev.json
+D:\Tech-Academy-Projects\Basic_C#_Projects\PackageQuote\PackageQuote\bin\Debug\netcoreapp3.1\PackageQuote.dll
+D:\Tech-Academy-Projects\Basic_C#_Projects\PackageQuote\PackageQuote\bin\Debug\netcoreapp3.1\PackageQuote.pdb
+D:\Tech-Academy-Projects\Basic_C#_Projects\PackageQuote\PackageQuote\obj\Debug\netcoreapp3.1\PackageQuote.csproj.AssemblyReference.cache
+D:\Tech-Academy-Projects\Basic_C#_Projects\PackageQuote\PackageQuote\obj\Debug\netcoreapp3.1\PackageQuote.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tech-Academy-Projects\Basic_C#_Projects\PackageQuote\PackageQuote\obj\Debug\netcoreapp3.1\PackageQuote.AssemblyInfoInputs.cache
+D:\Tech-Academy-Projects\Basic_C#_Projects\PackageQuote\PackageQuote\obj\Debug\netcoreapp3.1\PackageQuote.AssemblyInfo.cs
+D:\Tech-Academy-Projects\Basic_C#_Projects\PackageQuote\PackageQuote\obj\Debug\netcoreapp3.1\PackageQuote.csproj.CoreCompileInputs.cache
+D:\Tech-Academy-Projects\Basic_C#_Projects\PackageQuote\PackageQuote\obj\Debug\netcoreapp3.1\PackageQuote.dll
+D:\Tech-Academy-Projects\Basic_C#_Projects\PackageQuote\PackageQuote\obj\Debug\netcoreapp3.1\PackageQuote.pdb
+D:\Tech-Academy-Projects\Basic_C#_Projects\PackageQuote\PackageQuote\obj\Debug\netcoreapp3.1\PackageQuote.genruntimeconfig.cache
