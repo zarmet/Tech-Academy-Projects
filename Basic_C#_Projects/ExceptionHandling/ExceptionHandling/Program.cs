@@ -32,6 +32,10 @@ namespace ExceptionHandling
             {
                 Console.WriteLine("Let's try to preserve the space-time continuum, please don't divide by zero!");
             }
+            catch (System.FormatException str)
+            {
+                Console.WriteLine("Please enter a numerical value (i.e. 2)");
+            }
             finally
             {
                 Console.WriteLine("Enter a divisor:");
