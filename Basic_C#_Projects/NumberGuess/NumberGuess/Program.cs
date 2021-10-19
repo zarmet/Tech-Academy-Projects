@@ -8,16 +8,17 @@ namespace NumberGuess
         {
             Console.WriteLine("Can you guess the number I'm thinking of?");
             int number = Convert.ToInt32(Console.ReadLine());
+
+            
+            bool guess = false;
             do
             {
-                Console.WriteLine("Settle down there tiger! It's between 1 and 100");
-                number = Convert.ToInt32(Console.ReadLine());
-            }
-            while (number > 100 || number < 1);
-            bool guess = false;
+                while (number > 100 || number < 1)
+                {
+                    Console.WriteLine("Settle down there tiger! It's between 1 and 100");
+                    number = Convert.ToInt32(Console.ReadLine());
+                }
 
-            while (guess == false)
-            {
                 switch (number)
                 {
                     case 13:
@@ -42,6 +43,8 @@ namespace NumberGuess
                         break;
                 }
             }
+            while (guess == false);
+
             
         }
     }
