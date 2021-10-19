@@ -8,6 +8,12 @@ namespace NumberGuess
         {
             Console.WriteLine("Can you guess the number I'm thinking of?");
             int number = Convert.ToInt32(Console.ReadLine());
+            do
+            {
+                Console.WriteLine("Settle down there tiger! It's between 1 and 100");
+                number = Convert.ToInt32(Console.ReadLine());
+            }
+            while (number > 100 || number < 1);
             bool guess = false;
 
             while (guess == false)
