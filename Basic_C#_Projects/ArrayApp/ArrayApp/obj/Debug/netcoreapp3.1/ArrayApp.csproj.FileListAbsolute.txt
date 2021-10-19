@@ -1,0 +1,14 @@
+D:\Tech-Academy-Projects\Basic_C#_Projects\ArrayApp\ArrayApp\bin\Debug\netcoreapp3.1\ArrayApp.exe
+D:\Tech-Academy-Projects\Basic_C#_Projects\ArrayApp\ArrayApp\bin\Debug\netcoreapp3.1\ArrayApp.deps.json
+D:\Tech-Academy-Projects\Basic_C#_Projects\ArrayApp\ArrayApp\bin\Debug\netcoreapp3.1\ArrayApp.runtimeconfig.json
+D:\Tech-Academy-Projects\Basic_C#_Projects\ArrayApp\ArrayApp\bin\Debug\netcoreapp3.1\ArrayApp.runtimeconfig.dev.json
+D:\Tech-Academy-Projects\Basic_C#_Projects\ArrayApp\ArrayApp\bin\Debug\netcoreapp3.1\ArrayApp.dll
+D:\Tech-Academy-Projects\Basic_C#_Projects\ArrayApp\ArrayApp\bin\Debug\netcoreapp3.1\ArrayApp.pdb
+D:\Tech-Academy-Projects\Basic_C#_Projects\ArrayApp\ArrayApp\obj\Debug\netcoreapp3.1\ArrayApp.csproj.AssemblyReference.cache
+D:\Tech-Academy-Projects\Basic_C#_Projects\ArrayApp\ArrayApp\obj\Debug\netcoreapp3.1\ArrayApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tech-Academy-Projects\Basic_C#_Projects\ArrayApp\ArrayApp\obj\Debug\netcoreapp3.1\ArrayApp.AssemblyInfoInputs.cache
+D:\Tech-Academy-Projects\Basic_C#_Projects\ArrayApp\ArrayApp\obj\Debug\netcoreapp3.1\ArrayApp.AssemblyInfo.cs
+D:\Tech-Academy-Projects\Basic_C#_Projects\ArrayApp\ArrayApp\obj\Debug\netcoreapp3.1\ArrayApp.csproj.CoreCompileInputs.cache
+D:\Tech-Academy-Projects\Basic_C#_Projects\ArrayApp\ArrayApp\obj\Debug\netcoreapp3.1\ArrayApp.dll
+D:\Tech-Academy-Projects\Basic_C#_Projects\ArrayApp\ArrayApp\obj\Debug\netcoreapp3.1\ArrayApp.pdb
+D:\Tech-Academy-Projects\Basic_C#_Projects\ArrayApp\ArrayApp\obj\Debug\netcoreapp3.1\ArrayApp.genruntimeconfig.cache
