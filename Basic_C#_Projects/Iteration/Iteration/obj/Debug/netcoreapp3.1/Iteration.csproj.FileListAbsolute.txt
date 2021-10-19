@@ -1,0 +1,14 @@
+D:\Tech-Academy-Projects\Basic_C#_Projects\Iteration\Iteration\bin\Debug\netcoreapp3.1\Iteration.exe
+D:\Tech-Academy-Projects\Basic_C#_Projects\Iteration\Iteration\bin\Debug\netcoreapp3.1\Iteration.deps.json
+D:\Tech-Academy-Projects\Basic_C#_Projects\Iteration\Iteration\bin\Debug\netcoreapp3.1\Iteration.runtimeconfig.json
+D:\Tech-Academy-Projects\Basic_C#_Projects\Iteration\Iteration\bin\Debug\netcoreapp3.1\Iteration.runtimeconfig.dev.json
+D:\Tech-Academy-Projects\Basic_C#_Projects\Iteration\Iteration\bin\Debug\netcoreapp3.1\Iteration.dll
+D:\Tech-Academy-Projects\Basic_C#_Projects\Iteration\Iteration\bin\Debug\netcoreapp3.1\Iteration.pdb
+D:\Tech-Academy-Projects\Basic_C#_Projects\Iteration\Iteration\obj\Debug\netcoreapp3.1\Iteration.csproj.AssemblyReference.cache
+D:\Tech-Academy-Projects\Basic_C#_Projects\Iteration\Iteration\obj\Debug\netcoreapp3.1\Iteration.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tech-Academy-Projects\Basic_C#_Projects\Iteration\Iteration\obj\Debug\netcoreapp3.1\Iteration.AssemblyInfoInputs.cache
+D:\Tech-Academy-Projects\Basic_C#_Projects\Iteration\Iteration\obj\Debug\netcoreapp3.1\Iteration.AssemblyInfo.cs
+D:\Tech-Academy-Projects\Basic_C#_Projects\Iteration\Iteration\obj\Debug\netcoreapp3.1\Iteration.csproj.CoreCompileInputs.cache
+D:\Tech-Academy-Projects\Basic_C#_Projects\Iteration\Iteration\obj\Debug\netcoreapp3.1\Iteration.dll
+D:\Tech-Academy-Projects\Basic_C#_Projects\Iteration\Iteration\obj\Debug\netcoreapp3.1\Iteration.pdb
+D:\Tech-Academy-Projects\Basic_C#_Projects\Iteration\Iteration\obj\Debug\netcoreapp3.1\Iteration.genruntimeconfig.cache
