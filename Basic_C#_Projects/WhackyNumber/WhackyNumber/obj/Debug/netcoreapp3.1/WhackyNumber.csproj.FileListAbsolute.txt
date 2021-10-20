@@ -1,0 +1,14 @@
+D:\Tech-Academy-Projects\Basic_C#_Projects\WhackyNumber\WhackyNumber\bin\Debug\netcoreapp3.1\WhackyNumber.exe
+D:\Tech-Academy-Projects\Basic_C#_Projects\WhackyNumber\WhackyNumber\bin\Debug\netcoreapp3.1\WhackyNumber.deps.json
+D:\Tech-Academy-Projects\Basic_C#_Projects\WhackyNumber\WhackyNumber\bin\Debug\netcoreapp3.1\WhackyNumber.runtimeconfig.json
+D:\Tech-Academy-Projects\Basic_C#_Projects\WhackyNumber\WhackyNumber\bin\Debug\netcoreapp3.1\WhackyNumber.runtimeconfig.dev.json
+D:\Tech-Academy-Projects\Basic_C#_Projects\WhackyNumber\WhackyNumber\bin\Debug\netcoreapp3.1\WhackyNumber.dll
+D:\Tech-Academy-Projects\Basic_C#_Projects\WhackyNumber\WhackyNumber\bin\Debug\netcoreapp3.1\WhackyNumber.pdb
+D:\Tech-Academy-Projects\Basic_C#_Projects\WhackyNumber\WhackyNumber\obj\Debug\netcoreapp3.1\WhackyNumber.csproj.AssemblyReference.cache
+D:\Tech-Academy-Projects\Basic_C#_Projects\WhackyNumber\WhackyNumber\obj\Debug\netcoreapp3.1\WhackyNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tech-Academy-Projects\Basic_C#_Projects\WhackyNumber\WhackyNumber\obj\Debug\netcoreapp3.1\WhackyNumber.AssemblyInfoInputs.cache
+D:\Tech-Academy-Projects\Basic_C#_Projects\WhackyNumber\WhackyNumber\obj\Debug\netcoreapp3.1\WhackyNumber.AssemblyInfo.cs
+D:\Tech-Academy-Projects\Basic_C#_Projects\WhackyNumber\WhackyNumber\obj\Debug\netcoreapp3.1\WhackyNumber.csproj.CoreCompileInputs.cache
+D:\Tech-Academy-Projects\Basic_C#_Projects\WhackyNumber\WhackyNumber\obj\Debug\netcoreapp3.1\WhackyNumber.dll
+D:\Tech-Academy-Projects\Basic_C#_Projects\WhackyNumber\WhackyNumber\obj\Debug\netcoreapp3.1\WhackyNumber.pdb
+D:\Tech-Academy-Projects\Basic_C#_Projects\WhackyNumber\WhackyNumber\obj\Debug\netcoreapp3.1\WhackyNumber.genruntimeconfig.cache
