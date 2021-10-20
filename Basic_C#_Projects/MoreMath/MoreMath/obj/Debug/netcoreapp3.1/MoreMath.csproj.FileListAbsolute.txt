@@ -1,0 +1,14 @@
+D:\Tech-Academy-Projects\Basic_C#_Projects\MoreMath\MoreMath\bin\Debug\netcoreapp3.1\MoreMath.exe
+D:\Tech-Academy-Projects\Basic_C#_Projects\MoreMath\MoreMath\bin\Debug\netcoreapp3.1\MoreMath.deps.json
+D:\Tech-Academy-Projects\Basic_C#_Projects\MoreMath\MoreMath\bin\Debug\netcoreapp3.1\MoreMath.runtimeconfig.json
+D:\Tech-Academy-Projects\Basic_C#_Projects\MoreMath\MoreMath\bin\Debug\netcoreapp3.1\MoreMath.runtimeconfig.dev.json
+D:\Tech-Academy-Projects\Basic_C#_Projects\MoreMath\MoreMath\bin\Debug\netcoreapp3.1\MoreMath.dll
+D:\Tech-Academy-Projects\Basic_C#_Projects\MoreMath\MoreMath\bin\Debug\netcoreapp3.1\MoreMath.pdb
+D:\Tech-Academy-Projects\Basic_C#_Projects\MoreMath\MoreMath\obj\Debug\netcoreapp3.1\MoreMath.csproj.AssemblyReference.cache
+D:\Tech-Academy-Projects\Basic_C#_Projects\MoreMath\MoreMath\obj\Debug\netcoreapp3.1\MoreMath.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tech-Academy-Projects\Basic_C#_Projects\MoreMath\MoreMath\obj\Debug\netcoreapp3.1\MoreMath.AssemblyInfoInputs.cache
+D:\Tech-Academy-Projects\Basic_C#_Projects\MoreMath\MoreMath\obj\Debug\netcoreapp3.1\MoreMath.AssemblyInfo.cs
+D:\Tech-Academy-Projects\Basic_C#_Projects\MoreMath\MoreMath\obj\Debug\netcoreapp3.1\MoreMath.csproj.CoreCompileInputs.cache
+D:\Tech-Academy-Projects\Basic_C#_Projects\MoreMath\MoreMath\obj\Debug\netcoreapp3.1\MoreMath.dll
+D:\Tech-Academy-Projects\Basic_C#_Projects\MoreMath\MoreMath\obj\Debug\netcoreapp3.1\MoreMath.pdb
+D:\Tech-Academy-Projects\Basic_C#_Projects\MoreMath\MoreMath\obj\Debug\netcoreapp3.1\MoreMath.genruntimeconfig.cache
