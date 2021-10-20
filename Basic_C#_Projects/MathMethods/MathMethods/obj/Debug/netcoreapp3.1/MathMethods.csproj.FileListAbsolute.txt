@@ -1,0 +1,14 @@
+D:\Tech-Academy-Projects\Basic_C#_Projects\MathMethods\MathMethods\bin\Debug\netcoreapp3.1\MathMethods.exe
+D:\Tech-Academy-Projects\Basic_C#_Projects\MathMethods\MathMethods\bin\Debug\netcoreapp3.1\MathMethods.deps.json
+D:\Tech-Academy-Projects\Basic_C#_Projects\MathMethods\MathMethods\bin\Debug\netcoreapp3.1\MathMethods.runtimeconfig.json
+D:\Tech-Academy-Projects\Basic_C#_Projects\MathMethods\MathMethods\bin\Debug\netcoreapp3.1\MathMethods.runtimeconfig.dev.json
+D:\Tech-Academy-Projects\Basic_C#_Projects\MathMethods\MathMethods\bin\Debug\netcoreapp3.1\MathMethods.dll
+D:\Tech-Academy-Projects\Basic_C#_Projects\MathMethods\MathMethods\bin\Debug\netcoreapp3.1\MathMethods.pdb
+D:\Tech-Academy-Projects\Basic_C#_Projects\MathMethods\MathMethods\obj\Debug\netcoreapp3.1\MathMethods.csproj.AssemblyReference.cache
+D:\Tech-Academy-Projects\Basic_C#_Projects\MathMethods\MathMethods\obj\Debug\netcoreapp3.1\MathMethods.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tech-Academy-Projects\Basic_C#_Projects\MathMethods\MathMethods\obj\Debug\netcoreapp3.1\MathMethods.AssemblyInfoInputs.cache
+D:\Tech-Academy-Projects\Basic_C#_Projects\MathMethods\MathMethods\obj\Debug\netcoreapp3.1\MathMethods.AssemblyInfo.cs
+D:\Tech-Academy-Projects\Basic_C#_Projects\MathMethods\MathMethods\obj\Debug\netcoreapp3.1\MathMethods.csproj.CoreCompileInputs.cache
+D:\Tech-Academy-Projects\Basic_C#_Projects\MathMethods\MathMethods\obj\Debug\netcoreapp3.1\MathMethods.dll
+D:\Tech-Academy-Projects\Basic_C#_Projects\MathMethods\MathMethods\obj\Debug\netcoreapp3.1\MathMethods.pdb
+D:\Tech-Academy-Projects\Basic_C#_Projects\MathMethods\MathMethods\obj\Debug\netcoreapp3.1\MathMethods.genruntimeconfig.cache

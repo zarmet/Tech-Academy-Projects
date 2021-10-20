@@ -1,0 +1,14 @@
+D:\Tech-Academy-Projects\Basic_C#_Projects\Blackjack\Blackjack\obj\Debug\netcoreapp3.1\Blackjack.csproj.AssemblyReference.cache
+D:\Tech-Academy-Projects\Basic_C#_Projects\Blackjack\Blackjack\obj\Debug\netcoreapp3.1\Blackjack.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tech-Academy-Projects\Basic_C#_Projects\Blackjack\Blackjack\obj\Debug\netcoreapp3.1\Blackjack.AssemblyInfoInputs.cache
+D:\Tech-Academy-Projects\Basic_C#_Projects\Blackjack\Blackjack\obj\Debug\netcoreapp3.1\Blackjack.AssemblyInfo.cs
+D:\Tech-Academy-Projects\Basic_C#_Projects\Blackjack\Blackjack\obj\Debug\netcoreapp3.1\Blackjack.csproj.CoreCompileInputs.cache
+D:\Tech-Academy-Projects\Basic_C#_Projects\Blackjack\Blackjack\bin\Debug\netcoreapp3.1\Blackjack.exe
+D:\Tech-Academy-Projects\Basic_C#_Projects\Blackjack\Blackjack\bin\Debug\netcoreapp3.1\Blackjack.deps.json
+D:\Tech-Academy-Projects\Basic_C#_Projects\Blackjack\Blackjack\bin\Debug\netcoreapp3.1\Blackjack.runtimeconfig.json
+D:\Tech-Academy-Projects\Basic_C#_Projects\Blackjack\Blackjack\bin\Debug\netcoreapp3.1\Blackjack.runtimeconfig.dev.json
+D:\Tech-Academy-Projects\Basic_C#_Projects\Blackjack\Blackjack\bin\Debug\netcoreapp3.1\Blackjack.dll
+D:\Tech-Academy-Projects\Basic_C#_Projects\Blackjack\Blackjack\bin\Debug\netcoreapp3.1\Blackjack.pdb
+D:\Tech-Academy-Projects\Basic_C#_Projects\Blackjack\Blackjack\obj\Debug\netcoreapp3.1\Blackjack.dll
+D:\Tech-Academy-Projects\Basic_C#_Projects\Blackjack\Blackjack\obj\Debug\netcoreapp3.1\Blackjack.pdb
+D:\Tech-Academy-Projects\Basic_C#_Projects\Blackjack\Blackjack\obj\Debug\netcoreapp3.1\Blackjack.genruntimeconfig.cache

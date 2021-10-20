@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Blackjack
 {
-    class Card
+    public class Card
     {
         public string suit { get; set; }
         public string face { get; set; }
