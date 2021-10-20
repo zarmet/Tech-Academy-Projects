@@ -1,0 +1,14 @@
+D:\Tech-Academy-Projects\Basic_C#_Projects\VoidMethod\VoidMethod\bin\Debug\netcoreapp3.1\VoidMethod.exe
+D:\Tech-Academy-Projects\Basic_C#_Projects\VoidMethod\VoidMethod\bin\Debug\netcoreapp3.1\VoidMethod.deps.json
+D:\Tech-Academy-Projects\Basic_C#_Projects\VoidMethod\VoidMethod\bin\Debug\netcoreapp3.1\VoidMethod.runtimeconfig.json
+D:\Tech-Academy-Projects\Basic_C#_Projects\VoidMethod\VoidMethod\bin\Debug\netcoreapp3.1\VoidMethod.runtimeconfig.dev.json
+D:\Tech-Academy-Projects\Basic_C#_Projects\VoidMethod\VoidMethod\bin\Debug\netcoreapp3.1\VoidMethod.dll
+D:\Tech-Academy-Projects\Basic_C#_Projects\VoidMethod\VoidMethod\bin\Debug\netcoreapp3.1\VoidMethod.pdb
+D:\Tech-Academy-Projects\Basic_C#_Projects\VoidMethod\VoidMethod\obj\Debug\netcoreapp3.1\VoidMethod.csproj.AssemblyReference.cache
+D:\Tech-Academy-Projects\Basic_C#_Projects\VoidMethod\VoidMethod\obj\Debug\netcoreapp3.1\VoidMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tech-Academy-Projects\Basic_C#_Projects\VoidMethod\VoidMethod\obj\Debug\netcoreapp3.1\VoidMethod.AssemblyInfoInputs.cache
+D:\Tech-Academy-Projects\Basic_C#_Projects\VoidMethod\VoidMethod\obj\Debug\netcoreapp3.1\VoidMethod.AssemblyInfo.cs
+D:\Tech-Academy-Projects\Basic_C#_Projects\VoidMethod\VoidMethod\obj\Debug\netcoreapp3.1\VoidMethod.csproj.CoreCompileInputs.cache
+D:\Tech-Academy-Projects\Basic_C#_Projects\VoidMethod\VoidMethod\obj\Debug\netcoreapp3.1\VoidMethod.dll
+D:\Tech-Academy-Projects\Basic_C#_Projects\VoidMethod\VoidMethod\obj\Debug\netcoreapp3.1\VoidMethod.pdb
+D:\Tech-Academy-Projects\Basic_C#_Projects\VoidMethod\VoidMethod\obj\Debug\netcoreapp3.1\VoidMethod.genruntimeconfig.cache
