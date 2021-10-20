@@ -6,7 +6,7 @@ namespace VoidMethod
 {
     class Void
     {
-        public static void myMethod(int num1, int num2)
+        public void myMethod(int num1, int num2)
         {
             int useless = num1 * 51;
             Console.WriteLine(num2);

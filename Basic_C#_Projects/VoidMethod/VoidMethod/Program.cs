@@ -10,7 +10,9 @@ namespace VoidMethod
             int numOne = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Enter another:");
             int numTwo = Convert.ToInt32(Console.ReadLine());
-            Void.myMethod(numOne, numTwo);
+            Void result = new Void();
+            result.myMethod(num1: 1, num2: 2);
+            
         }
     }
 }
