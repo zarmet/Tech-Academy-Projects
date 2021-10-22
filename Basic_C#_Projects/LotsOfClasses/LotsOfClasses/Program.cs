@@ -9,6 +9,7 @@ namespace LotsOfClasses
             Methods meth = new Methods();
             Console.WriteLine("Enter a number:");
             int num1 = Convert.ToInt32(Console.ReadLine());
+            meth.voidMethod(num1);
             Console.WriteLine("Enter a number:");
             string num2 = Console.ReadLine();
             Type type = num2.GetType();
@@ -28,7 +29,7 @@ namespace LotsOfClasses
 
             catch (Exception)
             {
-                meth.voidMethod(num1);
+                Console.WriteLine("An Error Occurred.");
             }
 
 
