@@ -1,0 +1,14 @@
+D:\Tech-Academy-Projects\Basic_C#_Projects\LotsOfClasses\LotsOfClasses\bin\Debug\netcoreapp3.1\LotsOfClasses.exe
+D:\Tech-Academy-Projects\Basic_C#_Projects\LotsOfClasses\LotsOfClasses\bin\Debug\netcoreapp3.1\LotsOfClasses.deps.json
+D:\Tech-Academy-Projects\Basic_C#_Projects\LotsOfClasses\LotsOfClasses\bin\Debug\netcoreapp3.1\LotsOfClasses.runtimeconfig.json
+D:\Tech-Academy-Projects\Basic_C#_Projects\LotsOfClasses\LotsOfClasses\bin\Debug\netcoreapp3.1\LotsOfClasses.runtimeconfig.dev.json
+D:\Tech-Academy-Projects\Basic_C#_Projects\LotsOfClasses\LotsOfClasses\bin\Debug\netcoreapp3.1\LotsOfClasses.dll
+D:\Tech-Academy-Projects\Basic_C#_Projects\LotsOfClasses\LotsOfClasses\bin\Debug\netcoreapp3.1\LotsOfClasses.pdb
+D:\Tech-Academy-Projects\Basic_C#_Projects\LotsOfClasses\LotsOfClasses\obj\Debug\netcoreapp3.1\LotsOfClasses.csproj.AssemblyReference.cache
+D:\Tech-Academy-Projects\Basic_C#_Projects\LotsOfClasses\LotsOfClasses\obj\Debug\netcoreapp3.1\LotsOfClasses.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tech-Academy-Projects\Basic_C#_Projects\LotsOfClasses\LotsOfClasses\obj\Debug\netcoreapp3.1\LotsOfClasses.AssemblyInfoInputs.cache
+D:\Tech-Academy-Projects\Basic_C#_Projects\LotsOfClasses\LotsOfClasses\obj\Debug\netcoreapp3.1\LotsOfClasses.AssemblyInfo.cs
+D:\Tech-Academy-Projects\Basic_C#_Projects\LotsOfClasses\LotsOfClasses\obj\Debug\netcoreapp3.1\LotsOfClasses.csproj.CoreCompileInputs.cache
+D:\Tech-Academy-Projects\Basic_C#_Projects\LotsOfClasses\LotsOfClasses\obj\Debug\netcoreapp3.1\LotsOfClasses.dll
+D:\Tech-Academy-Projects\Basic_C#_Projects\LotsOfClasses\LotsOfClasses\obj\Debug\netcoreapp3.1\LotsOfClasses.pdb
+D:\Tech-Academy-Projects\Basic_C#_Projects\LotsOfClasses\LotsOfClasses\obj\Debug\netcoreapp3.1\LotsOfClasses.genruntimeconfig.cache
