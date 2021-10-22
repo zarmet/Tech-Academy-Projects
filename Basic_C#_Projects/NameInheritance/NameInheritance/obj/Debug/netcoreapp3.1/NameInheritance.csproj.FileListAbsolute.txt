@@ -1,0 +1,14 @@
+D:\Tech-Academy-Projects\Basic_C#_Projects\NameInheritance\NameInheritance\bin\Debug\netcoreapp3.1\NameInheritance.exe
+D:\Tech-Academy-Projects\Basic_C#_Projects\NameInheritance\NameInheritance\bin\Debug\netcoreapp3.1\NameInheritance.deps.json
+D:\Tech-Academy-Projects\Basic_C#_Projects\NameInheritance\NameInheritance\bin\Debug\netcoreapp3.1\NameInheritance.runtimeconfig.json
+D:\Tech-Academy-Projects\Basic_C#_Projects\NameInheritance\NameInheritance\bin\Debug\netcoreapp3.1\NameInheritance.runtimeconfig.dev.json
+D:\Tech-Academy-Projects\Basic_C#_Projects\NameInheritance\NameInheritance\bin\Debug\netcoreapp3.1\NameInheritance.dll
+D:\Tech-Academy-Projects\Basic_C#_Projects\NameInheritance\NameInheritance\bin\Debug\netcoreapp3.1\NameInheritance.pdb
+D:\Tech-Academy-Projects\Basic_C#_Projects\NameInheritance\NameInheritance\obj\Debug\netcoreapp3.1\NameInheritance.csproj.AssemblyReference.cache
+D:\Tech-Academy-Projects\Basic_C#_Projects\NameInheritance\NameInheritance\obj\Debug\netcoreapp3.1\NameInheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tech-Academy-Projects\Basic_C#_Projects\NameInheritance\NameInheritance\obj\Debug\netcoreapp3.1\NameInheritance.AssemblyInfoInputs.cache
+D:\Tech-Academy-Projects\Basic_C#_Projects\NameInheritance\NameInheritance\obj\Debug\netcoreapp3.1\NameInheritance.AssemblyInfo.cs
+D:\Tech-Academy-Projects\Basic_C#_Projects\NameInheritance\NameInheritance\obj\Debug\netcoreapp3.1\NameInheritance.csproj.CoreCompileInputs.cache
+D:\Tech-Academy-Projects\Basic_C#_Projects\NameInheritance\NameInheritance\obj\Debug\netcoreapp3.1\NameInheritance.dll
+D:\Tech-Academy-Projects\Basic_C#_Projects\NameInheritance\NameInheritance\obj\Debug\netcoreapp3.1\NameInheritance.pdb
+D:\Tech-Academy-Projects\Basic_C#_Projects\NameInheritance\NameInheritance\obj\Debug\netcoreapp3.1\NameInheritance.genruntimeconfig.cache
