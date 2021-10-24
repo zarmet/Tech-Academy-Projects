@@ -10,7 +10,7 @@ namespace Blackjack
     {
         static void Main(string[] args)
         {
-            BlackjackGame game = new BlackjackGame();
+            Game game = new BlackjackGame();
             game.Dealer = "Herbert Moon";
             game.Name = "Blackjack";
             game.Players = new List<string>() { "John", "Sadie", "Charles" };
