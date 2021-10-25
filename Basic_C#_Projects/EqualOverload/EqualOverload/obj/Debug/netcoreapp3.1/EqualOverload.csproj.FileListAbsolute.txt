@@ -1,0 +1,14 @@
+D:\Tech-Academy-Projects\Basic_C#_Projects\EqualOverload\EqualOverload\bin\Debug\netcoreapp3.1\EqualOverload.exe
+D:\Tech-Academy-Projects\Basic_C#_Projects\EqualOverload\EqualOverload\bin\Debug\netcoreapp3.1\EqualOverload.deps.json
+D:\Tech-Academy-Projects\Basic_C#_Projects\EqualOverload\EqualOverload\bin\Debug\netcoreapp3.1\EqualOverload.runtimeconfig.json
+D:\Tech-Academy-Projects\Basic_C#_Projects\EqualOverload\EqualOverload\bin\Debug\netcoreapp3.1\EqualOverload.runtimeconfig.dev.json
+D:\Tech-Academy-Projects\Basic_C#_Projects\EqualOverload\EqualOverload\bin\Debug\netcoreapp3.1\EqualOverload.dll
+D:\Tech-Academy-Projects\Basic_C#_Projects\EqualOverload\EqualOverload\bin\Debug\netcoreapp3.1\EqualOverload.pdb
+D:\Tech-Academy-Projects\Basic_C#_Projects\EqualOverload\EqualOverload\obj\Debug\netcoreapp3.1\EqualOverload.csproj.AssemblyReference.cache
+D:\Tech-Academy-Projects\Basic_C#_Projects\EqualOverload\EqualOverload\obj\Debug\netcoreapp3.1\EqualOverload.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tech-Academy-Projects\Basic_C#_Projects\EqualOverload\EqualOverload\obj\Debug\netcoreapp3.1\EqualOverload.AssemblyInfoInputs.cache
+D:\Tech-Academy-Projects\Basic_C#_Projects\EqualOverload\EqualOverload\obj\Debug\netcoreapp3.1\EqualOverload.AssemblyInfo.cs
+D:\Tech-Academy-Projects\Basic_C#_Projects\EqualOverload\EqualOverload\obj\Debug\netcoreapp3.1\EqualOverload.csproj.CoreCompileInputs.cache
+D:\Tech-Academy-Projects\Basic_C#_Projects\EqualOverload\EqualOverload\obj\Debug\netcoreapp3.1\EqualOverload.dll
+D:\Tech-Academy-Projects\Basic_C#_Projects\EqualOverload\EqualOverload\obj\Debug\netcoreapp3.1\EqualOverload.pdb
+D:\Tech-Academy-Projects\Basic_C#_Projects\EqualOverload\EqualOverload\obj\Debug\netcoreapp3.1\EqualOverload.genruntimeconfig.cache
