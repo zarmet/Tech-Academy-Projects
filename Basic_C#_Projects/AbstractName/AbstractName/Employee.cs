@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using System.Linq;
 
 namespace AbstractName
 {
@@ -8,7 +9,7 @@ namespace AbstractName
     {
         public override void SayName()
         {
-            throw new NotImplementedException();
+            base.SayName();
         }
     }
 }

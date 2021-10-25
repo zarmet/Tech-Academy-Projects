@@ -6,7 +6,8 @@ namespace AbstractName
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Employee student = new Employee() { FirstName = "Sample", LastName = "Student" };
+            student.SayName();
         }
     }
 }

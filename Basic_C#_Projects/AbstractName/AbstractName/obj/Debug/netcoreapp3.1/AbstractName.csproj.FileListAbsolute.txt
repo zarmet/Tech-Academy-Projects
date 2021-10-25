@@ -1,0 +1,14 @@
+D:\Tech-Academy-Projects\Basic_C#_Projects\AbstractName\AbstractName\obj\Debug\netcoreapp3.1\AbstractName.csproj.AssemblyReference.cache
+D:\Tech-Academy-Projects\Basic_C#_Projects\AbstractName\AbstractName\obj\Debug\netcoreapp3.1\AbstractName.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tech-Academy-Projects\Basic_C#_Projects\AbstractName\AbstractName\obj\Debug\netcoreapp3.1\AbstractName.AssemblyInfoInputs.cache
+D:\Tech-Academy-Projects\Basic_C#_Projects\AbstractName\AbstractName\obj\Debug\netcoreapp3.1\AbstractName.AssemblyInfo.cs
+D:\Tech-Academy-Projects\Basic_C#_Projects\AbstractName\AbstractName\obj\Debug\netcoreapp3.1\AbstractName.csproj.CoreCompileInputs.cache
+D:\Tech-Academy-Projects\Basic_C#_Projects\AbstractName\AbstractName\bin\Debug\netcoreapp3.1\AbstractName.exe
+D:\Tech-Academy-Projects\Basic_C#_Projects\AbstractName\AbstractName\bin\Debug\netcoreapp3.1\AbstractName.deps.json
+D:\Tech-Academy-Projects\Basic_C#_Projects\AbstractName\AbstractName\bin\Debug\netcoreapp3.1\AbstractName.runtimeconfig.json
+D:\Tech-Academy-Projects\Basic_C#_Projects\AbstractName\AbstractName\bin\Debug\netcoreapp3.1\AbstractName.runtimeconfig.dev.json
+D:\Tech-Academy-Projects\Basic_C#_Projects\AbstractName\AbstractName\bin\Debug\netcoreapp3.1\AbstractName.dll
+D:\Tech-Academy-Projects\Basic_C#_Projects\AbstractName\AbstractName\bin\Debug\netcoreapp3.1\AbstractName.pdb
+D:\Tech-Academy-Projects\Basic_C#_Projects\AbstractName\AbstractName\obj\Debug\netcoreapp3.1\AbstractName.dll
+D:\Tech-Academy-Projects\Basic_C#_Projects\AbstractName\AbstractName\obj\Debug\netcoreapp3.1\AbstractName.pdb
+D:\Tech-Academy-Projects\Basic_C#_Projects\AbstractName\AbstractName\obj\Debug\netcoreapp3.1\AbstractName.genruntimeconfig.cache
