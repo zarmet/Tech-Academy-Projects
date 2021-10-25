@@ -6,5 +6,9 @@ namespace AbstractName
 {
     interface IQuittable
     {
+        void Quit()
+        {
+
+        }
     }
 }

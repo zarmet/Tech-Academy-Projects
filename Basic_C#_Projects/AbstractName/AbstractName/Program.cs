@@ -6,8 +6,8 @@ namespace AbstractName
     {
         static void Main(string[] args)
         {
-            Employee student = new Employee() { FirstName = "Sample", LastName = "Student" };
-            student.SayName();
+            IQuittable quittable = new Employee();
+            quittable.Quit();
         }
     }
 }
