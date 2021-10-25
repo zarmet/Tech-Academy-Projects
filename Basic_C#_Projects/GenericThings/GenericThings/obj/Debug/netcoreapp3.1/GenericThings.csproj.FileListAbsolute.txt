@@ -1,0 +1,14 @@
+D:\Tech-Academy-Projects\Basic_C#_Projects\GenericThings\GenericThings\bin\Debug\netcoreapp3.1\GenericThings.exe
+D:\Tech-Academy-Projects\Basic_C#_Projects\GenericThings\GenericThings\bin\Debug\netcoreapp3.1\GenericThings.deps.json
+D:\Tech-Academy-Projects\Basic_C#_Projects\GenericThings\GenericThings\bin\Debug\netcoreapp3.1\GenericThings.runtimeconfig.json
+D:\Tech-Academy-Projects\Basic_C#_Projects\GenericThings\GenericThings\bin\Debug\netcoreapp3.1\GenericThings.runtimeconfig.dev.json
+D:\Tech-Academy-Projects\Basic_C#_Projects\GenericThings\GenericThings\bin\Debug\netcoreapp3.1\GenericThings.dll
+D:\Tech-Academy-Projects\Basic_C#_Projects\GenericThings\GenericThings\bin\Debug\netcoreapp3.1\GenericThings.pdb
+D:\Tech-Academy-Projects\Basic_C#_Projects\GenericThings\GenericThings\obj\Debug\netcoreapp3.1\GenericThings.csproj.AssemblyReference.cache
+D:\Tech-Academy-Projects\Basic_C#_Projects\GenericThings\GenericThings\obj\Debug\netcoreapp3.1\GenericThings.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tech-Academy-Projects\Basic_C#_Projects\GenericThings\GenericThings\obj\Debug\netcoreapp3.1\GenericThings.AssemblyInfoInputs.cache
+D:\Tech-Academy-Projects\Basic_C#_Projects\GenericThings\GenericThings\obj\Debug\netcoreapp3.1\GenericThings.AssemblyInfo.cs
+D:\Tech-Academy-Projects\Basic_C#_Projects\GenericThings\GenericThings\obj\Debug\netcoreapp3.1\GenericThings.csproj.CoreCompileInputs.cache
+D:\Tech-Academy-Projects\Basic_C#_Projects\GenericThings\GenericThings\obj\Debug\netcoreapp3.1\GenericThings.dll
+D:\Tech-Academy-Projects\Basic_C#_Projects\GenericThings\GenericThings\obj\Debug\netcoreapp3.1\GenericThings.pdb
+D:\Tech-Academy-Projects\Basic_C#_Projects\GenericThings\GenericThings\obj\Debug\netcoreapp3.1\GenericThings.genruntimeconfig.cache
