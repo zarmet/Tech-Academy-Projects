@@ -25,14 +25,14 @@ namespace EqualOverload
         }
         public static bool operator !=(Employee employee1, Employee employee2)
         {
-            if (employee1.Id == employee2.Id)
+            if (employee1.Id != employee2.Id)
             {
-                Console.WriteLine("These employees have the same ID Number");
+                Console.WriteLine("These employees do not have the same ID Number");
                 return true;
             }
             else
             {
-                Console.WriteLine("These employees do not have the same ID Number");
+                Console.WriteLine("These employees have the same ID Number");
                 return false;
             }
 
