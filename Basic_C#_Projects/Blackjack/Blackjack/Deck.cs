@@ -11,15 +11,14 @@ namespace Blackjack
         public Deck()
         {
             Cards = new List<Card>();
-            List<string> suits = new List<string>() { "Clubs", "Hearts", "Spades", "Diamonds" };
-            List<string> faces = new List<string>() { "Two", "Three", "Four", "Five", "Six", "Seven", "Eight", "Nine", "Ten", "Jack", "Queen", "King", "Ace", };
-            foreach(string face in faces)
+            
+            for (int i = 0; i<13; i++)
             {
-                foreach(string suit in suits)
+                for (int j = 0; j < 4; j++)
                 {
                     Card card = new Card();
-                    card.suit = suit;
-                    card.face = face;
+                    card.face = Convert.ToString((Face)i);
+                    card.suit = Convert.ToString((Suit)j);
                     Cards.Add(card);
                 }
             }

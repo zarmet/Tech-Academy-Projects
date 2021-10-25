@@ -1,0 +1,14 @@
+D:\Tech-Academy-Projects\Basic_C#_Projects\DaysOfTheWeek\DaysOfTheWeek\bin\Debug\netcoreapp3.1\DaysOfTheWeek.exe
+D:\Tech-Academy-Projects\Basic_C#_Projects\DaysOfTheWeek\DaysOfTheWeek\bin\Debug\netcoreapp3.1\DaysOfTheWeek.deps.json
+D:\Tech-Academy-Projects\Basic_C#_Projects\DaysOfTheWeek\DaysOfTheWeek\bin\Debug\netcoreapp3.1\DaysOfTheWeek.runtimeconfig.json
+D:\Tech-Academy-Projects\Basic_C#_Projects\DaysOfTheWeek\DaysOfTheWeek\bin\Debug\netcoreapp3.1\DaysOfTheWeek.runtimeconfig.dev.json
+D:\Tech-Academy-Projects\Basic_C#_Projects\DaysOfTheWeek\DaysOfTheWeek\bin\Debug\netcoreapp3.1\DaysOfTheWeek.dll
+D:\Tech-Academy-Projects\Basic_C#_Projects\DaysOfTheWeek\DaysOfTheWeek\bin\Debug\netcoreapp3.1\DaysOfTheWeek.pdb
+D:\Tech-Academy-Projects\Basic_C#_Projects\DaysOfTheWeek\DaysOfTheWeek\obj\Debug\netcoreapp3.1\DaysOfTheWeek.csproj.AssemblyReference.cache
+D:\Tech-Academy-Projects\Basic_C#_Projects\DaysOfTheWeek\DaysOfTheWeek\obj\Debug\netcoreapp3.1\DaysOfTheWeek.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tech-Academy-Projects\Basic_C#_Projects\DaysOfTheWeek\DaysOfTheWeek\obj\Debug\netcoreapp3.1\DaysOfTheWeek.AssemblyInfoInputs.cache
+D:\Tech-Academy-Projects\Basic_C#_Projects\DaysOfTheWeek\DaysOfTheWeek\obj\Debug\netcoreapp3.1\DaysOfTheWeek.AssemblyInfo.cs
+D:\Tech-Academy-Projects\Basic_C#_Projects\DaysOfTheWeek\DaysOfTheWeek\obj\Debug\netcoreapp3.1\DaysOfTheWeek.csproj.CoreCompileInputs.cache
+D:\Tech-Academy-Projects\Basic_C#_Projects\DaysOfTheWeek\DaysOfTheWeek\obj\Debug\netcoreapp3.1\DaysOfTheWeek.dll
+D:\Tech-Academy-Projects\Basic_C#_Projects\DaysOfTheWeek\DaysOfTheWeek\obj\Debug\netcoreapp3.1\DaysOfTheWeek.pdb
+D:\Tech-Academy-Projects\Basic_C#_Projects\DaysOfTheWeek\DaysOfTheWeek\obj\Debug\netcoreapp3.1\DaysOfTheWeek.genruntimeconfig.cache
