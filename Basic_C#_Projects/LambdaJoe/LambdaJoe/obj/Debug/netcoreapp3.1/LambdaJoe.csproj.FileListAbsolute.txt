@@ -1,0 +1,14 @@
+D:\Tech-Academy-Projects\Basic_C#_Projects\LambdaJoe\LambdaJoe\bin\Debug\netcoreapp3.1\LambdaJoe.exe
+D:\Tech-Academy-Projects\Basic_C#_Projects\LambdaJoe\LambdaJoe\bin\Debug\netcoreapp3.1\LambdaJoe.deps.json
+D:\Tech-Academy-Projects\Basic_C#_Projects\LambdaJoe\LambdaJoe\bin\Debug\netcoreapp3.1\LambdaJoe.runtimeconfig.json
+D:\Tech-Academy-Projects\Basic_C#_Projects\LambdaJoe\LambdaJoe\bin\Debug\netcoreapp3.1\LambdaJoe.runtimeconfig.dev.json
+D:\Tech-Academy-Projects\Basic_C#_Projects\LambdaJoe\LambdaJoe\bin\Debug\netcoreapp3.1\LambdaJoe.dll
+D:\Tech-Academy-Projects\Basic_C#_Projects\LambdaJoe\LambdaJoe\bin\Debug\netcoreapp3.1\LambdaJoe.pdb
+D:\Tech-Academy-Projects\Basic_C#_Projects\LambdaJoe\LambdaJoe\obj\Debug\netcoreapp3.1\LambdaJoe.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tech-Academy-Projects\Basic_C#_Projects\LambdaJoe\LambdaJoe\obj\Debug\netcoreapp3.1\LambdaJoe.AssemblyInfoInputs.cache
+D:\Tech-Academy-Projects\Basic_C#_Projects\LambdaJoe\LambdaJoe\obj\Debug\netcoreapp3.1\LambdaJoe.AssemblyInfo.cs
+D:\Tech-Academy-Projects\Basic_C#_Projects\LambdaJoe\LambdaJoe\obj\Debug\netcoreapp3.1\LambdaJoe.csproj.CoreCompileInputs.cache
+D:\Tech-Academy-Projects\Basic_C#_Projects\LambdaJoe\LambdaJoe\obj\Debug\netcoreapp3.1\LambdaJoe.dll
+D:\Tech-Academy-Projects\Basic_C#_Projects\LambdaJoe\LambdaJoe\obj\Debug\netcoreapp3.1\LambdaJoe.pdb
+D:\Tech-Academy-Projects\Basic_C#_Projects\LambdaJoe\LambdaJoe\obj\Debug\netcoreapp3.1\LambdaJoe.genruntimeconfig.cache
+D:\Tech-Academy-Projects\Basic_C#_Projects\LambdaJoe\LambdaJoe\obj\Debug\netcoreapp3.1\LambdaJoe.csproj.AssemblyReference.cache
