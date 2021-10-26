@@ -7,20 +7,22 @@ namespace DaysOfTheWeek
         static void Main(string[] args)
         {
             Console.WriteLine("What day is today?");
-            string day = Console.ReadLine();
-
-            for (int i=0; i < 7;)
+            try
             {
-                if (Convert.ToString((Days)i) != day)
-                {
-                    i++;
-                }
-                else
-                {
-                    Console.WriteLine("Today is " + (Days)i);
-                    return;
-                }
+                string day = Console.ReadLine();
+                Days today = (Days)Enum.Parse(typeof(Days), day, true);
+                Console.WriteLine("Today is {0}", today);
             }
+            catch (System.ArgumentException)
+            {
+                Console.WriteLine("Please enter an actual day of the week:");
+                string day = Console.ReadLine();
+                Days today = (Days)Enum.Parse(typeof(Days), day, true);
+                Console.WriteLine("Today is {0}", today);
+            }
+            
+            
+            
 
         }
     }
