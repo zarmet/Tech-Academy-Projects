@@ -6,9 +6,14 @@ namespace Blackjack
 {
     public class BlackjackGame : Game, IWalkAway
     {
+        public BlackjackDealer Dealer { get; set; }
         public override void Play()
         {
-            throw new NotImplementedException();
+            Dealer = new BlackjackDealer();
+            foreach(Player player in Players)
+            {
+
+            }
         }
 
         public override void ListPlayers()

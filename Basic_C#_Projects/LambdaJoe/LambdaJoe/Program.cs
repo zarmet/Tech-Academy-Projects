@@ -21,9 +21,7 @@ namespace LambdaJoe
 
             List<Employee> employees = new List<Employee>() { emp1, emp2, emp3, emp4, emp5, emp6, emp7, emp8, emp9, emp10 };
             List<Employee> joes = new List<Employee>();
-            List<Employee> mojoes = new List<Employee>();
-            List<Employee> IdGreaterThanFive = new List<Employee>();
-
+           
 
             foreach (Employee joe in employees)
             {
@@ -35,15 +33,16 @@ namespace LambdaJoe
             }
 
 
-            foreach (Employee person in employees.FindAll(j => j.FirstName == "Joe"))
+            List<Employee> mojoes = employees.FindAll(j => j.FirstName == "Joe");
+            foreach (Employee joe in mojoes)
             {
-                mojoes.Add(person);
-                Console.WriteLine(person.FirstName + " " + person.LastName);
+                Console.WriteLine(joe.FirstName + " " + joe.LastName);
             }
 
-            foreach (Employee person in employees.FindAll(j => j.ID > 5))
+
+            List<Employee> IdGreaterThanFive = employees.FindAll(j => j.ID > 5);
+            foreach (Employee person in IdGreaterThanFive)
             {
-                IdGreaterThanFive.Add(person);
                 Console.WriteLine(person.FirstName + " " + person.LastName + " ID: " + person.ID);
             }
         }
