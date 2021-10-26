@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Threading.Tasks;
+using System.Linq;
 
 namespace LambdaJoe
 {
@@ -40,7 +41,7 @@ namespace LambdaJoe
             }
 
 
-            List<Employee> IdGreaterThanFive = employees.FindAll(j => j.ID > 5);
+            List<Employee> IdGreaterThanFive = employees.Where(j => j.ID > 5).ToList();
             foreach (Employee person in IdGreaterThanFive)
             {
                 Console.WriteLine(person.FirstName + " " + person.LastName + " ID: " + person.ID);

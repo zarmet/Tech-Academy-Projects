@@ -19,6 +19,15 @@ namespace Blackjack
         public bool isPlaying { get; set; }
         public bool Stay { get; set; }
 
+        public bool Bet(int amount)
+        {
+            if (Balance - amount < 0)
+            {
+                Console.WriteLine("You don't have enough money!");
+                return false;
+            }
+            return true;
+        }
         public static Game operator+ (Game game, Player player)
         {
             game.Players.Add(player);
