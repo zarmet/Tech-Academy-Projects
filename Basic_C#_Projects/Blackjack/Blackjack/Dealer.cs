@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 using System.Linq;
+using System.IO;
 
 namespace Blackjack
 {
@@ -14,7 +15,13 @@ namespace Blackjack
         public void Deal(List<Card> Hand)
         {
             Hand.Add(Deck.Cards.First());
-            Console.WriteLine(Deck.Cards.First().ToString() + "\n");
+            string card = string.Format(Deck.Cards.First().ToString()+"\n");
+            Console.WriteLine(card);
+            using (StreamWriter file = new StreamWriter(@"D:\Tech-Academy-Projects\Basic_C#_Projects\log.txt", true))
+            {
+                file.WriteLine(DateTime.Now);
+                file.WriteLine(card);
+            } 
             Deck.Cards.RemoveAt(0);
         }
     }

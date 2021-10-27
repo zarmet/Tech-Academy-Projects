@@ -17,8 +17,8 @@ namespace Blackjack
                 for (int j = 0; j < 4; j++)
                 {
                     Card card = new Card();
-                    card.face = Convert.ToString((Face)i);
-                    card.suit = Convert.ToString((Suit)j);
+                    card.face = (Face)i;
+                    card.suit = (Suit)j;
                     Cards.Add(card);
                 }
             }

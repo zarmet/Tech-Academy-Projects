@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.IO;
 
 namespace Blackjack
 {
@@ -10,6 +11,8 @@ namespace Blackjack
     {
         static void Main(string[] args)
         {
+            string text = "Here is some text.";
+            File.WriteAllText(@"D:\Tech-Academy-Projects\Basic_C#_Projects\log.txt", text);
             Console.WriteLine("Welcome to the Rhodes Parlor House. What's your name?");
             string playerName = Console.ReadLine();
             Console.WriteLine("How much money did you bring today?");
