@@ -1,0 +1,13 @@
+D:\Tech-Academy-Projects\Basic_C#_Projects\DateAndTime\DateAndTime\bin\Debug\netcoreapp3.1\DateAndTime.exe
+D:\Tech-Academy-Projects\Basic_C#_Projects\DateAndTime\DateAndTime\bin\Debug\netcoreapp3.1\DateAndTime.deps.json
+D:\Tech-Academy-Projects\Basic_C#_Projects\DateAndTime\DateAndTime\bin\Debug\netcoreapp3.1\DateAndTime.runtimeconfig.json
+D:\Tech-Academy-Projects\Basic_C#_Projects\DateAndTime\DateAndTime\bin\Debug\netcoreapp3.1\DateAndTime.runtimeconfig.dev.json
+D:\Tech-Academy-Projects\Basic_C#_Projects\DateAndTime\DateAndTime\bin\Debug\netcoreapp3.1\DateAndTime.dll
+D:\Tech-Academy-Projects\Basic_C#_Projects\DateAndTime\DateAndTime\bin\Debug\netcoreapp3.1\DateAndTime.pdb
+D:\Tech-Academy-Projects\Basic_C#_Projects\DateAndTime\DateAndTime\obj\Debug\netcoreapp3.1\DateAndTime.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tech-Academy-Projects\Basic_C#_Projects\DateAndTime\DateAndTime\obj\Debug\netcoreapp3.1\DateAndTime.AssemblyInfoInputs.cache
+D:\Tech-Academy-Projects\Basic_C#_Projects\DateAndTime\DateAndTime\obj\Debug\netcoreapp3.1\DateAndTime.AssemblyInfo.cs
+D:\Tech-Academy-Projects\Basic_C#_Projects\DateAndTime\DateAndTime\obj\Debug\netcoreapp3.1\DateAndTime.csproj.CoreCompileInputs.cache
+D:\Tech-Academy-Projects\Basic_C#_Projects\DateAndTime\DateAndTime\obj\Debug\netcoreapp3.1\DateAndTime.dll
+D:\Tech-Academy-Projects\Basic_C#_Projects\DateAndTime\DateAndTime\obj\Debug\netcoreapp3.1\DateAndTime.pdb
+D:\Tech-Academy-Projects\Basic_C#_Projects\DateAndTime\DateAndTime\obj\Debug\netcoreapp3.1\DateAndTime.genruntimeconfig.cache
